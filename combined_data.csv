@@ -1,0 +1,1072 @@
+city,temperature,weather_description,humidity,wind_speed,weather_datetime,region_id,region_name,carbon_intensity,carbon_forecast,carbon_average,generation_mix,carbon_datetime,latitude,longitude
+Inverness,0.95,broken clouds,100,1.03,1/22/25 5:56,1,National,282,288.0,very high,,2025-01-22T05:30Z,57.4791,-4.224
+Edinburgh,0.09,clear sky,88,1.81,1/22/25 5:56,2,National,282,288.0,very high,,2025-01-22T05:30Z,55.9521,-3.1965
+Manchester,4.18,mist,94,1.03,1/22/25 5:56,3,National,282,288.0,very high,,2025-01-22T05:30Z,53.4809,-2.2374
+Newcastle upon Tyne,0.12,few clouds,100,1.03,1/22/25 5:56,4,National,282,288.0,very high,,2025-01-22T05:30Z,54.9733,-1.614
+Sheffield,3.81,overcast clouds,91,1.34,1/22/25 5:56,5,National,282,288.0,very high,,2025-01-22T05:30Z,53.383,-1.4659
+Liverpool,3.03,mist,97,1.54,1/22/25 5:55,6,National,282,288.0,very high,,2025-01-22T05:30Z,53.4106,-2.9779
+Cardiff,2.76,mist,95,2.57,1/22/25 5:51,7,National,282,288.0,very high,,2025-01-22T05:30Z,51.48,-3.18
+Birmingham,-7.53,scattered clouds,63,2.57,1/22/25 5:57,8,National,282,288.0,very high,,2025-01-22T05:30Z,33.5207,-86.8025
+Nottingham,1.19,mist,93,1.03,1/22/25 5:51,9,National,282,288.0,very high,,2025-01-22T05:30Z,52.9536,-1.1505
+Cambridge,-18.87,clear sky,76,6.17,1/22/25 6:00,10,National,282,288.0,very high,,2025-01-22T05:30Z,43.3601,-80.3127
+Bristol,-10.1,overcast clouds,63,2.24,1/22/25 5:51,11,National,282,288.0,very high,,2025-01-22T05:30Z,41.8334,-71.1662
+Southampton,3.45,overcast clouds,97,2.84,1/22/25 5:51,12,National,282,288.0,very high,,2025-01-22T05:30Z,50.904,-1.4043
+London,2.65,broken clouds,93,1.54,1/22/25 5:51,13,National,282,288.0,very high,,2025-01-22T05:30Z,51.5085,-0.1257
+Brighton,3.47,light rain,97,0.45,1/22/25 5:50,14,National,282,288.0,very high,,2025-01-22T05:30Z,50.8284,-0.1395
+Leeds,4.32,overcast clouds,95,1.14,1/22/25 5:49,15,National,282,288.0,very high,,2025-01-22T05:30Z,53.7964,-1.5477
+Glasgow,0.17,overcast clouds,96,1.03,1/22/25 5:48,16,National,282,288.0,very high,,2025-01-22T05:30Z,55.8652,-4.2576
+Swansea,3.0,overcast clouds,94,2.41,1/22/25 5:51,17,National,282,288.0,very high,,2025-01-22T05:30Z,51.6208,-3.9432
+Inverness,3.12,overcast clouds,90,2.06,1/22/25 22:16,1,National,244,253.0,high,,2025-01-22T21:30Z,57.4791,-4.224
+Edinburgh,2.93,broken clouds,88,1.03,1/22/25 22:12,2,National,244,253.0,high,,2025-01-22T21:30Z,55.9521,-3.1965
+Manchester,4.07,mist,90,1.54,1/22/25 22:11,3,National,244,253.0,high,,2025-01-22T21:30Z,53.4809,-2.2374
+Newcastle upon Tyne,2.12,scattered clouds,100,1.03,1/22/25 22:16,4,National,244,253.0,high,,2025-01-22T21:30Z,54.9733,-1.614
+Sheffield,4.89,scattered clouds,90,2.02,1/22/25 22:16,5,National,244,253.0,high,,2025-01-22T21:30Z,53.383,-1.4659
+Liverpool,4.13,light intensity drizzle,95,2.06,1/22/25 22:17,6,National,244,253.0,high,,2025-01-22T21:30Z,53.4106,-2.9779
+Cardiff,3.16,mist,93,2.57,1/22/25 22:13,7,National,244,253.0,high,,2025-01-22T21:30Z,51.48,-3.18
+Birmingham,3.29,few clouds,19,0.0,1/22/25 22:14,8,National,244,253.0,high,,2025-01-22T21:30Z,33.5207,-86.8025
+Nottingham,3.35,scattered clouds,92,3.6,1/22/25 22:12,9,National,244,253.0,high,,2025-01-22T21:30Z,52.9536,-1.1505
+Cambridge,-13.27,overcast clouds,71,6.23,1/22/25 22:12,10,National,244,253.0,high,,2025-01-22T21:30Z,43.3601,-80.3127
+Bristol,-8.93,clear sky,48,1.13,1/22/25 22:07,11,National,244,253.0,high,,2025-01-22T21:30Z,41.8334,-71.1662
+Southampton,3.2,broken clouds,93,0.0,1/22/25 22:17,12,National,244,253.0,high,,2025-01-22T21:30Z,50.904,-1.4043
+London,3.86,broken clouds,87,3.09,1/22/25 22:14,13,National,244,253.0,high,,2025-01-22T21:30Z,51.5085,-0.1257
+Brighton,2.35,overcast clouds,91,7.28,1/22/25 22:17,14,National,244,253.0,high,,2025-01-22T21:30Z,50.8284,-0.1395
+Leeds,3.89,broken clouds,94,3.6,1/22/25 22:08,15,National,244,253.0,high,,2025-01-22T21:30Z,53.7964,-1.5477
+Glasgow,3.11,overcast clouds,94,1.03,1/22/25 22:13,16,National,244,253.0,high,,2025-01-22T21:30Z,55.8652,-4.2576
+Swansea,5.43,scattered clouds,86,1.3,1/22/25 22:17,17,National,244,253.0,high,,2025-01-22T21:30Z,51.6208,-3.9432
+Inverness,3.12,broken clouds,90,0.0,1/22/25 23:30,1,National,231,233.0,high,,2025-01-22T23:00Z,57.4791,-4.224
+Edinburgh,3.0,overcast clouds,87,1.03,1/22/25 23:29,2,National,231,233.0,high,,2025-01-22T23:00Z,55.9521,-3.1965
+Manchester,3.97,mist,90,1.03,1/22/25 23:24,3,National,231,233.0,high,,2025-01-22T23:00Z,53.4809,-2.2374
+Newcastle upon Tyne,2.12,scattered clouds,100,1.03,1/22/25 23:26,4,National,231,233.0,high,,2025-01-22T23:00Z,54.9733,-1.614
+Sheffield,4.34,scattered clouds,90,2.14,1/22/25 23:30,5,National,231,233.0,high,,2025-01-22T23:00Z,53.383,-1.4659
+Liverpool,3.81,broken clouds,95,2.06,1/22/25 23:30,6,National,231,233.0,high,,2025-01-22T23:00Z,53.4106,-2.9779
+Cardiff,3.16,mist,96,2.06,1/22/25 23:30,7,National,231,233.0,high,,2025-01-22T23:00Z,51.48,-3.18
+Birmingham,0.07,clear sky,29,0.59,1/22/25 23:26,8,National,231,233.0,high,,2025-01-22T23:00Z,33.5207,-86.8025
+Nottingham,3.33,scattered clouds,91,2.28,1/22/25 23:26,9,National,231,233.0,high,,2025-01-22T23:00Z,52.9536,-1.1505
+Cambridge,-13.12,overcast clouds,77,6.69,1/22/25 23:29,10,National,231,233.0,high,,2025-01-22T23:00Z,43.3601,-80.3127
+Bristol,-11.44,clear sky,61,0.89,1/22/25 23:26,11,National,231,233.0,high,,2025-01-22T23:00Z,41.8334,-71.1662
+Southampton,3.34,overcast clouds,94,3.23,1/22/25 23:26,12,National,231,233.0,high,,2025-01-22T23:00Z,50.904,-1.4043
+London,2.93,overcast clouds,89,3.6,1/22/25 23:20,13,National,231,233.0,high,,2025-01-22T23:00Z,51.5085,-0.1257
+Brighton,2.5,overcast clouds,89,6.59,1/22/25 23:25,14,National,231,233.0,high,,2025-01-22T23:00Z,50.8284,-0.1395
+Leeds,3.88,broken clouds,94,3.6,1/22/25 23:25,15,National,231,233.0,high,,2025-01-22T23:00Z,53.7964,-1.5477
+Glasgow,3.11,overcast clouds,94,1.54,1/22/25 23:25,16,National,231,233.0,high,,2025-01-22T23:00Z,55.8652,-4.2576
+Swansea,5.65,few clouds,85,1.53,1/22/25 23:30,17,National,231,233.0,high,,2025-01-22T23:00Z,51.6208,-3.9432
+Inverness,2.4,overcast clouds,93,1.54,1/23/25 0:42,1,National,219,224.0,high,,2025-01-23T00:00Z,57.4791,-4.224
+Edinburgh,2.77,overcast clouds,87,0.51,1/23/25 0:44,2,National,219,224.0,high,,2025-01-23T00:00Z,55.9521,-3.1965
+Manchester,4.04,mist,91,1.54,1/23/25 0:41,3,National,219,224.0,high,,2025-01-23T00:00Z,53.4809,-2.2374
+Newcastle upon Tyne,0.12,broken clouds,100,1.03,1/23/25 0:44,4,National,219,224.0,high,,2025-01-23T00:00Z,54.9733,-1.614
+Sheffield,4.34,light rain,90,2.44,1/23/25 0:44,5,National,219,224.0,high,,2025-01-23T00:00Z,53.383,-1.4659
+Liverpool,3.82,broken clouds,94,1.54,1/23/25 0:44,6,National,219,224.0,high,,2025-01-23T00:00Z,53.4106,-2.9779
+Cardiff,3.95,overcast clouds,95,1.54,1/23/25 0:44,7,National,219,224.0,high,,2025-01-23T00:00Z,51.48,-3.18
+Birmingham,-2.45,clear sky,38,1.14,1/23/25 0:44,8,National,219,224.0,high,,2025-01-23T00:00Z,33.5207,-86.8025
+Nottingham,2.57,scattered clouds,91,3.6,1/23/25 0:44,9,National,219,224.0,high,,2025-01-23T00:00Z,52.9536,-1.1505
+Cambridge,-12.71,overcast clouds,78,5.14,1/23/25 0:41,10,National,219,224.0,high,,2025-01-23T00:00Z,43.3601,-80.3127
+Bristol,-13.25,overcast clouds,70,0.7,1/23/25 0:44,11,National,219,224.0,high,,2025-01-23T00:00Z,41.8334,-71.1662
+Southampton,1.79,overcast clouds,94,3.13,1/23/25 0:44,12,National,219,224.0,high,,2025-01-23T00:00Z,50.904,-1.4043
+London,1.82,overcast clouds,91,2.24,1/23/25 0:40,13,National,219,224.0,high,,2025-01-23T00:00Z,51.5085,-0.1257
+Brighton,1.2,overcast clouds,86,4.13,1/23/25 0:44,14,National,219,224.0,high,,2025-01-23T00:00Z,50.8284,-0.1395
+Leeds,3.9,clear sky,92,2.0,1/23/25 0:44,15,National,219,224.0,high,,2025-01-23T00:00Z,53.7964,-1.5477
+Glasgow,2.85,overcast clouds,94,0.51,1/23/25 0:44,16,National,219,224.0,high,,2025-01-23T00:00Z,55.8652,-4.2576
+Swansea,5.29,few clouds,87,1.58,1/23/25 0:44,17,National,219,224.0,high,,2025-01-23T00:00Z,51.6208,-3.9432
+Inverness,2.4,overcast clouds,91,0.51,1/23/25 1:49,1,National,214,219.0,high,,2025-01-23T01:00Z,57.4791,-4.224
+Edinburgh,3.06,overcast clouds,87,0.51,1/23/25 1:45,2,National,214,219.0,high,,2025-01-23T01:00Z,55.9521,-3.1965
+Manchester,4.04,mist,91,1.54,1/23/25 1:42,3,National,214,219.0,high,,2025-01-23T01:00Z,53.4809,-2.2374
+Newcastle upon Tyne,1.12,overcast clouds,100,2.57,1/23/25 1:49,4,National,214,219.0,high,,2025-01-23T01:00Z,54.9733,-1.614
+Sheffield,3.81,broken clouds,90,2.24,1/23/25 1:49,5,National,214,219.0,high,,2025-01-23T01:00Z,53.383,-1.4659
+Liverpool,3.65,broken clouds,93,2.06,1/23/25 1:47,6,National,214,219.0,high,,2025-01-23T01:00Z,53.4106,-2.9779
+Cardiff,3.93,broken clouds,91,1.54,1/23/25 1:46,7,National,214,219.0,high,,2025-01-23T01:00Z,51.48,-3.18
+Birmingham,-3.21,clear sky,43,0.0,1/23/25 1:43,8,National,214,219.0,high,,2025-01-23T01:00Z,33.5207,-86.8025
+Nottingham,2.55,broken clouds,92,3.6,1/23/25 1:48,9,National,214,219.0,high,,2025-01-23T01:00Z,52.9536,-1.1505
+Cambridge,-12.71,scattered clouds,82,5.66,1/23/25 1:52,10,National,214,219.0,high,,2025-01-23T01:00Z,43.3601,-80.3127
+Bristol,-11.37,overcast clouds,63,0.94,1/23/25 1:49,11,National,214,219.0,high,,2025-01-23T01:00Z,41.8334,-71.1662
+Southampton,2.12,broken clouds,97,3.68,1/23/25 1:48,12,National,214,219.0,high,,2025-01-23T01:00Z,50.904,-1.4043
+London,1.5,broken clouds,93,2.24,1/23/25 1:46,13,National,214,219.0,high,,2025-01-23T01:00Z,51.5085,-0.1257
+Brighton,1.14,broken clouds,91,5.79,1/23/25 1:48,14,National,214,219.0,high,,2025-01-23T01:00Z,50.8284,-0.1395
+Leeds,2.82,clear sky,95,1.89,1/23/25 1:48,15,National,214,219.0,high,,2025-01-23T01:00Z,53.7964,-1.5477
+Glasgow,2.82,mist,94,1.54,1/23/25 1:47,16,National,214,219.0,high,,2025-01-23T01:00Z,55.8652,-4.2576
+Swansea,5.15,scattered clouds,91,2.26,1/23/25 1:49,17,National,214,219.0,high,,2025-01-23T01:00Z,51.6208,-3.9432
+Inverness,2.4,overcast clouds,94,0.0,1/23/25 3:37,1,National,193,197.0,high,,2025-01-23T03:00Z,57.4791,-4.224
+Edinburgh,0.87,scattered clouds,89,1.54,1/23/25 3:30,2,National,193,197.0,high,,2025-01-23T03:00Z,55.9521,-3.1965
+Manchester,3.34,overcast clouds,94,1.54,1/23/25 3:30,3,National,193,197.0,high,,2025-01-23T03:00Z,53.4809,-2.2374
+Newcastle upon Tyne,1.12,overcast clouds,100,1.03,1/23/25 3:35,4,National,193,197.0,high,,2025-01-23T03:00Z,54.9733,-1.614
+Sheffield,2.7,broken clouds,91,3.18,1/23/25 3:37,5,National,193,197.0,high,,2025-01-23T03:00Z,53.383,-1.4659
+Liverpool,3.46,overcast clouds,93,2.06,1/23/25 3:29,6,National,193,197.0,high,,2025-01-23T03:00Z,53.4106,-2.9779
+Cardiff,4.77,overcast clouds,92,1.54,1/23/25 3:30,7,National,193,197.0,high,,2025-01-23T03:00Z,51.48,-3.18
+Birmingham,-4.74,clear sky,53,0.0,1/23/25 3:30,8,National,193,197.0,high,,2025-01-23T03:00Z,33.5207,-86.8025
+Nottingham,2.22,few clouds,93,3.09,1/23/25 3:34,9,National,193,197.0,high,,2025-01-23T03:00Z,52.9536,-1.1505
+Cambridge,-12.59,clear sky,78,2.57,1/23/25 3:34,10,National,193,197.0,high,,2025-01-23T03:00Z,43.3601,-80.3127
+Bristol,-10.89,overcast clouds,67,0.72,1/23/25 3:29,11,National,193,197.0,high,,2025-01-23T03:00Z,41.8334,-71.1662
+Southampton,2.09,scattered clouds,98,3.87,1/23/25 3:37,12,National,193,197.0,high,,2025-01-23T03:00Z,50.904,-1.4043
+London,2.74,overcast clouds,91,3.6,1/23/25 3:31,13,National,193,197.0,high,,2025-01-23T03:00Z,51.5085,-0.1257
+Brighton,0.69,scattered clouds,88,6.63,1/23/25 3:35,14,National,193,197.0,high,,2025-01-23T03:00Z,50.8284,-0.1395
+Leeds,3.58,few clouds,90,2.36,1/23/25 3:30,15,National,193,197.0,high,,2025-01-23T03:00Z,53.7964,-1.5477
+Glasgow,2.63,overcast clouds,94,2.06,1/23/25 3:28,16,National,193,197.0,high,,2025-01-23T03:00Z,55.8652,-4.2576
+Swansea,7.58,broken clouds,94,5.95,1/23/25 3:37,17,National,193,197.0,high,,2025-01-23T03:00Z,51.6208,-3.9432
+Inverness,0.44,few clouds,91,0.51,1/23/25 8:00,1,National,200,213.0,high,,2025-01-23T07:30Z,57.4791,-4.224
+Edinburgh,2.19,broken clouds,89,2.68,1/23/25 8:00,2,National,200,213.0,high,,2025-01-23T07:30Z,55.9521,-3.1965
+Manchester,3.27,overcast clouds,91,2.06,1/23/25 8:00,3,National,200,213.0,high,,2025-01-23T07:30Z,53.4809,-2.2374
+Newcastle upon Tyne,1.12,broken clouds,93,1.03,1/23/25 8:00,4,National,200,213.0,high,,2025-01-23T07:30Z,54.9733,-1.614
+Sheffield,3.26,broken clouds,91,3.82,1/23/25 7:57,5,National,200,213.0,high,,2025-01-23T07:30Z,53.383,-1.4659
+Liverpool,3.02,clear sky,91,4.12,1/23/25 7:58,6,National,200,213.0,high,,2025-01-23T07:30Z,53.4106,-2.9779
+Cardiff,6.84,scattered clouds,94,4.63,1/23/25 8:00,7,National,200,213.0,high,,2025-01-23T07:30Z,51.48,-3.18
+Birmingham,-6.26,overcast clouds,71,1.53,1/23/25 8:00,8,National,200,213.0,high,,2025-01-23T07:30Z,33.5207,-86.8025
+Nottingham,2.89,broken clouds,90,4.63,1/23/25 7:55,9,National,200,213.0,high,,2025-01-23T07:30Z,52.9536,-1.1505
+Cambridge,-10.99,broken clouds,81,5.14,1/23/25 7:56,10,National,200,213.0,high,,2025-01-23T07:30Z,43.3601,-80.3127
+Bristol,-13.56,scattered clouds,77,0.71,1/23/25 8:00,11,National,200,213.0,high,,2025-01-23T07:30Z,41.8334,-71.1662
+Southampton,4.47,broken clouds,96,5.76,1/23/25 8:00,12,National,200,213.0,high,,2025-01-23T07:30Z,50.904,-1.4043
+London,3.79,overcast clouds,90,2.24,1/23/25 7:55,13,National,200,213.0,high,,2025-01-23T07:30Z,51.5085,-0.1257
+Brighton,4.35,broken clouds,96,0.45,1/23/25 8:00,14,National,200,213.0,high,,2025-01-23T07:30Z,50.8284,-0.1395
+Leeds,2.79,broken clouds,94,2.06,1/23/25 7:59,15,National,200,213.0,high,,2025-01-23T07:30Z,53.7964,-1.5477
+Glasgow,3.23,broken clouds,91,2.57,1/23/25 7:59,16,National,200,213.0,high,,2025-01-23T07:30Z,55.8652,-4.2576
+Swansea,7.64,overcast clouds,92,3.13,1/23/25 8:00,17,National,200,213.0,high,,2025-01-23T07:30Z,51.6208,-3.9432
+Inverness,4.54,moderate rain,91,11.83,1/24/25 22:25,1,National,69,71.0,low,,2025-01-24T21:30Z,57.4791,-4.224
+Edinburgh,3.12,broken clouds,81,13.89,1/24/25 22:25,2,National,69,71.0,low,,2025-01-24T21:30Z,55.9521,-3.1965
+Manchester,4.98,light rain,84,4.63,1/24/25 22:19,3,National,69,71.0,low,,2025-01-24T21:30Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,clear sky,56,7.2,1/24/25 22:23,4,National,69,71.0,low,,2025-01-24T21:30Z,54.9733,-1.614
+Sheffield,4.95,moderate rain,88,0.45,1/24/25 22:25,5,National,69,71.0,low,,2025-01-24T21:30Z,53.383,-1.4659
+Liverpool,4.74,broken clouds,86,5.14,1/24/25 22:24,6,National,69,71.0,low,,2025-01-24T21:30Z,53.4106,-2.9779
+Cardiff,6.62,broken clouds,93,6.69,1/24/25 22:25,7,National,69,71.0,low,,2025-01-24T21:30Z,51.48,-3.18
+Birmingham,6.27,clear sky,33,7.2,1/24/25 22:25,8,National,69,71.0,low,,2025-01-24T21:30Z,33.5207,-86.8025
+Nottingham,5.93,clear sky,75,2.06,1/24/25 22:25,9,National,69,71.0,low,,2025-01-24T21:30Z,52.9536,-1.1505
+Cambridge,-8.52,overcast clouds,75,6.17,1/24/25 22:22,10,National,69,71.0,low,,2025-01-24T21:30Z,43.3601,-80.3127
+Bristol,-2.3,broken clouds,53,3.13,1/24/25 22:25,11,National,69,71.0,low,,2025-01-24T21:30Z,41.8334,-71.1662
+Southampton,8.96,overcast clouds,85,3.13,1/24/25 22:25,12,National,69,71.0,low,,2025-01-24T21:30Z,50.904,-1.4043
+London,7.33,broken clouds,83,2.24,1/24/25 22:15,13,National,69,71.0,low,,2025-01-24T21:30Z,51.5085,-0.1257
+Brighton,8.5,overcast clouds,92,0.89,1/24/25 22:21,14,National,69,71.0,low,,2025-01-24T21:30Z,50.8284,-0.1395
+Leeds,4.27,light intensity shower rain,87,7.2,1/24/25 22:25,15,National,69,71.0,low,,2025-01-24T21:30Z,53.7964,-1.5477
+Glasgow,3.08,broken clouds,85,15.43,1/24/25 22:25,16,National,69,71.0,low,,2025-01-24T21:30Z,55.8652,-4.2576
+Swansea,5.86,overcast clouds,92,0.45,1/24/25 22:25,17,National,69,71.0,low,,2025-01-24T21:30Z,51.6208,-3.9432
+Inverness,3.12,clear sky,85,11.32,1/25/25 3:23,1,National,47,41.0,low,,2025-01-25T02:30Z,57.4791,-4.224
+Edinburgh,2.57,few clouds,82,9.26,1/25/25 3:22,2,National,47,41.0,low,,2025-01-25T02:30Z,55.9521,-3.1965
+Manchester,2.3,broken clouds,86,2.57,1/25/25 3:16,3,National,47,41.0,low,,2025-01-25T02:30Z,53.4809,-2.2374
+Newcastle upon Tyne,3.12,few clouds,70,8.75,1/25/25 3:23,4,National,47,41.0,low,,2025-01-25T02:30Z,54.9733,-1.614
+Sheffield,2.15,broken clouds,90,4.5,1/25/25 3:22,5,National,47,41.0,low,,2025-01-25T02:30Z,53.383,-1.4659
+Liverpool,2.1,broken clouds,82,4.12,1/25/25 3:24,6,National,47,41.0,low,,2025-01-25T02:30Z,53.4106,-2.9779
+Cardiff,2.26,few clouds,90,3.09,1/25/25 3:24,7,National,47,41.0,low,,2025-01-25T02:30Z,51.48,-3.18
+Birmingham,-2.19,clear sky,63,0.0,1/25/25 3:24,8,National,47,41.0,low,,2025-01-25T02:30Z,33.5207,-86.8025
+Nottingham,3.16,clear sky,84,6.17,1/25/25 3:24,9,National,47,41.0,low,,2025-01-25T02:30Z,52.9536,-1.1505
+Cambridge,-9.79,overcast clouds,67,3.09,1/25/25 3:21,10,National,47,41.0,low,,2025-01-25T02:30Z,43.3601,-80.3127
+Bristol,-8.23,few clouds,73,0.45,1/25/25 3:19,11,National,47,41.0,low,,2025-01-25T02:30Z,41.8334,-71.1662
+Southampton,6.32,overcast clouds,95,0.89,1/25/25 3:19,12,National,47,41.0,low,,2025-01-25T02:30Z,50.904,-1.4043
+London,8.36,moderate rain,87,4.12,1/25/25 3:15,13,National,47,41.0,low,,2025-01-25T02:30Z,51.5085,-0.1257
+Brighton,8.09,overcast clouds,91,0.45,1/25/25 3:24,14,National,47,41.0,low,,2025-01-25T02:30Z,50.8284,-0.1395
+Leeds,2.74,few clouds,82,6.17,1/25/25 3:24,15,National,47,41.0,low,,2025-01-25T02:30Z,53.7964,-1.5477
+Glasgow,2.76,scattered clouds,86,7.2,1/25/25 3:21,16,National,47,41.0,low,,2025-01-25T02:30Z,55.8652,-4.2576
+Swansea,3.23,overcast clouds,84,1.34,1/25/25 3:24,17,National,47,41.0,low,,2025-01-25T02:30Z,51.6208,-3.9432
+Inverness,4.18,broken clouds,91,4.47,1/26/25 21:17,1,National,56,72.0,low,,2025-01-26T20:30Z,57.4791,-4.224
+Edinburgh,3.3,overcast clouds,87,4.63,1/26/25 21:15,2,National,56,72.0,low,,2025-01-26T20:30Z,55.9521,-3.1965
+Manchester,6.84,broken clouds,88,3.09,1/26/25 21:12,3,National,56,72.0,low,,2025-01-26T20:30Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,broken clouds,93,1.03,1/26/25 21:17,4,National,56,72.0,low,,2025-01-26T20:30Z,54.9733,-1.614
+Sheffield,6.04,overcast clouds,91,7.21,1/26/25 21:17,5,National,56,72.0,low,,2025-01-26T20:30Z,53.383,-1.4659
+Liverpool,6.24,few clouds,90,6.17,1/26/25 21:17,6,National,56,72.0,low,,2025-01-26T20:30Z,53.4106,-2.9779
+Cardiff,8.13,moderate rain,91,5.14,1/26/25 21:16,7,National,56,72.0,low,,2025-01-26T20:30Z,51.48,-3.18
+Birmingham,11.99,overcast clouds,54,3.09,1/26/25 21:11,8,National,56,72.0,low,,2025-01-26T20:30Z,33.5207,-86.8025
+Nottingham,6.5,few clouds,88,6.69,1/26/25 21:17,9,National,56,72.0,low,,2025-01-26T20:30Z,52.9536,-1.1505
+Cambridge,-3.12,overcast clouds,67,8.75,1/26/25 21:16,10,National,56,72.0,low,,2025-01-26T20:30Z,43.3601,-80.3127
+Bristol,3.28,clear sky,46,5.81,1/26/25 21:17,11,National,56,72.0,low,,2025-01-26T20:30Z,41.8334,-71.1662
+Southampton,8.78,moderate rain,95,6.26,1/26/25 21:17,12,National,56,72.0,low,,2025-01-26T20:30Z,50.904,-1.4043
+London,8.37,scattered clouds,89,4.63,1/26/25 21:13,13,National,56,72.0,low,,2025-01-26T20:30Z,51.5085,-0.1257
+Brighton,9.6,moderate rain,90,2.24,1/26/25 21:13,14,National,56,72.0,low,,2025-01-26T20:30Z,50.8284,-0.1395
+Leeds,5.26,mist,97,4.63,1/26/25 21:17,15,National,56,72.0,low,,2025-01-26T20:30Z,53.7964,-1.5477
+Glasgow,3.37,very heavy rain,89,6.17,1/26/25 21:13,16,National,56,72.0,low,,2025-01-26T20:30Z,55.8652,-4.2576
+Swansea,7.84,moderate rain,88,4.47,1/26/25 21:16,17,National,56,72.0,low,,2025-01-26T20:30Z,51.6208,-3.9432
+Inverness,4.18,overcast clouds,91,3.58,1/26/25 21:38,1,National,56,59.0,low,,2025-01-26T21:00Z,57.4791,-4.224
+Edinburgh,3.3,broken clouds,87,3.09,1/26/25 21:38,2,National,56,59.0,low,,2025-01-26T21:00Z,55.9521,-3.1965
+Manchester,6.84,few clouds,88,3.09,1/26/25 21:33,3,National,56,59.0,low,,2025-01-26T21:00Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,broken clouds,100,2.57,1/26/25 21:38,4,National,56,59.0,low,,2025-01-26T21:00Z,54.9733,-1.614
+Sheffield,6.04,overcast clouds,91,6.07,1/26/25 21:35,5,National,56,59.0,low,,2025-01-26T21:00Z,53.383,-1.4659
+Liverpool,6.34,few clouds,90,6.17,1/26/25 21:31,6,National,56,59.0,low,,2025-01-26T21:00Z,53.4106,-2.9779
+Cardiff,8.01,moderate rain,91,8.75,1/26/25 21:34,7,National,56,59.0,low,,2025-01-26T21:00Z,51.48,-3.18
+Birmingham,11.99,overcast clouds,54,3.09,1/26/25 21:31,8,National,56,59.0,low,,2025-01-26T21:00Z,33.5207,-86.8025
+Nottingham,6.47,clear sky,88,5.14,1/26/25 21:38,9,National,56,59.0,low,,2025-01-26T21:00Z,52.9536,-1.1505
+Cambridge,-3.79,overcast clouds,63,8.75,1/26/25 21:38,10,National,56,59.0,low,,2025-01-26T21:00Z,43.3601,-80.3127
+Bristol,2.97,clear sky,48,5.66,1/26/25 21:32,11,National,56,59.0,low,,2025-01-26T21:00Z,41.8334,-71.1662
+Southampton,9.12,heavy intensity rain,91,11.32,1/26/25 21:36,12,National,56,59.0,low,,2025-01-26T21:00Z,50.904,-1.4043
+London,8.51,scattered clouds,90,4.63,1/26/25 21:29,13,National,56,59.0,low,,2025-01-26T21:00Z,51.5085,-0.1257
+Brighton,9.49,moderate rain,91,2.68,1/26/25 21:38,14,National,56,59.0,low,,2025-01-26T21:00Z,50.8284,-0.1395
+Leeds,5.24,mist,97,5.66,1/26/25 21:38,15,National,56,59.0,low,,2025-01-26T21:00Z,53.7964,-1.5477
+Glasgow,3.53,light rain,89,6.17,1/26/25 21:38,16,National,56,59.0,low,,2025-01-26T21:00Z,55.8652,-4.2576
+Swansea,7.66,moderate rain,91,3.13,1/26/25 21:38,17,National,56,59.0,low,,2025-01-26T21:00Z,51.6208,-3.9432
+Inverness,4.54,broken clouds,91,4.02,1/26/25 22:19,1,National,44,48.0,low,,2025-01-26T21:30Z,57.4791,-4.224
+Edinburgh,3.22,light rain,88,3.09,1/26/25 22:15,2,National,44,48.0,low,,2025-01-26T21:30Z,55.9521,-3.1965
+Manchester,6.84,overcast clouds,88,3.6,1/26/25 22:12,3,National,44,48.0,low,,2025-01-26T21:30Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,broken clouds,93,3.6,1/26/25 22:16,4,National,44,48.0,low,,2025-01-26T21:30Z,54.9733,-1.614
+Sheffield,6.01,overcast clouds,91,6.07,1/26/25 22:14,5,National,44,48.0,low,,2025-01-26T21:30Z,53.383,-1.4659
+Liverpool,6.34,broken clouds,89,5.14,1/26/25 22:19,6,National,44,48.0,low,,2025-01-26T21:30Z,53.4106,-2.9779
+Cardiff,6.95,moderate rain,91,6.69,1/26/25 22:19,7,National,44,48.0,low,,2025-01-26T21:30Z,51.48,-3.18
+Birmingham,10.99,overcast clouds,58,1.54,1/26/25 22:20,8,National,44,48.0,low,,2025-01-26T21:30Z,52.4814,-1.8998
+Nottingham,5.94,clear sky,91,4.63,1/26/25 22:17,9,National,44,48.0,low,,2025-01-26T21:30Z,52.9536,-1.1505
+Cambridge,-3.73,overcast clouds,66,6.17,1/26/25 22:19,10,National,44,48.0,low,,2025-01-26T21:30Z,52.2,0.1167
+Bristol,1.96,clear sky,50,3.13,1/26/25 22:20,11,National,44,48.0,low,,2025-01-26T21:30Z,51.4552,-2.5967
+Southampton,8.34,heavy intensity rain,95,6.17,1/26/25 22:16,12,National,44,48.0,low,,2025-01-26T21:30Z,50.904,-1.4043
+London,9.6,light rain,87,5.14,1/26/25 22:11,13,National,44,48.0,low,,2025-01-26T21:30Z,51.5085,-0.1257
+Brighton,8.94,moderate rain,92,3.13,1/26/25 22:20,14,National,44,48.0,low,,2025-01-26T21:30Z,50.8284,-0.1395
+Leeds,5.28,mist,97,4.12,1/26/25 22:20,15,National,44,48.0,low,,2025-01-26T21:30Z,53.7964,-1.5477
+Glasgow,3.28,light rain,91,6.17,1/26/25 22:17,16,National,44,48.0,low,,2025-01-26T21:30Z,55.8652,-4.2576
+Swansea,6.55,light rain,91,3.13,1/26/25 22:20,17,National,44,48.0,low,,2025-01-26T21:30Z,51.6208,-3.9432
+Inverness,4.9,overcast clouds,87,4.12,1/26/25 23:22,1,National,40,41.0,low,,2025-01-26T22:30Z,57.4791,-4.224
+Edinburgh,2.86,overcast clouds,90,3.6,1/26/25 23:13,2,National,40,41.0,low,,2025-01-26T22:30Z,55.9521,-3.1965
+Manchester,7.1,light rain,85,3.6,1/26/25 23:19,3,National,40,41.0,low,,2025-01-26T22:30Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,broken clouds,93,4.12,1/26/25 23:22,4,National,40,41.0,low,,2025-01-26T22:30Z,54.9733,-1.614
+Sheffield,6.01,light rain,91,5.69,1/26/25 23:18,5,National,40,41.0,low,,2025-01-26T22:30Z,53.383,-1.4659
+Liverpool,6.34,light intensity shower rain,90,6.69,1/26/25 23:18,6,National,40,41.0,low,,2025-01-26T22:30Z,53.4106,-2.9779
+Cardiff,6.32,light rain,93,5.14,1/26/25 23:21,7,National,40,41.0,low,,2025-01-26T22:30Z,51.48,-3.18
+Birmingham,8.97,moderate rain,91,0.7,1/26/25 23:11,8,National,40,41.0,low,,2025-01-26T22:30Z,52.4814,-1.8998
+Nottingham,7.01,scattered clouds,91,4.63,1/26/25 23:19,9,National,40,41.0,low,,2025-01-26T22:30Z,52.9536,-1.1505
+Cambridge,-3.79,overcast clouds,63,5.14,1/26/25 23:20,10,National,40,41.0,low,,2025-01-26T22:30Z,52.2,0.1167
+Bristol,0.74,clear sky,53,2.57,1/26/25 23:18,11,National,40,41.0,low,,2025-01-26T22:30Z,51.4552,-2.5967
+Southampton,7.8,very heavy rain,97,1.34,1/26/25 23:22,12,National,40,41.0,low,,2025-01-26T22:30Z,50.904,-1.4043
+London,8.84,very heavy rain,88,8.23,1/26/25 23:18,13,National,40,41.0,low,,2025-01-26T22:30Z,51.5085,-0.1257
+Brighton,8.1,light rain,94,4.47,1/26/25 23:22,14,National,40,41.0,low,,2025-01-26T22:30Z,50.8284,-0.1395
+Leeds,5.59,broken clouds,94,3.6,1/26/25 23:22,15,National,40,41.0,low,,2025-01-26T22:30Z,53.7964,-1.5477
+Glasgow,3.15,overcast clouds,93,4.12,1/26/25 23:18,16,National,40,41.0,low,,2025-01-26T22:30Z,55.8652,-4.2576
+Swansea,6.37,light rain,92,0.89,1/26/25 23:22,17,National,40,41.0,low,,2025-01-26T22:30Z,51.6208,-3.9432
+Inverness,4.9,overcast clouds,87,4.12,1/26/25 23:22,1,National,40,41.0,low,,2025-01-26T22:30Z,57.4791,-4.224
+Edinburgh,2.86,light rain,90,3.6,1/26/25 23:24,2,National,40,41.0,low,,2025-01-26T22:30Z,55.9521,-3.1965
+Manchester,7.1,light rain,85,3.6,1/26/25 23:19,3,National,40,41.0,low,,2025-01-26T22:30Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,broken clouds,93,4.12,1/26/25 23:22,4,National,40,41.0,low,,2025-01-26T22:30Z,54.9733,-1.614
+Sheffield,6.01,light rain,91,5.69,1/26/25 23:18,5,National,40,41.0,low,,2025-01-26T22:30Z,53.383,-1.4659
+Liverpool,6.34,light intensity shower rain,90,6.69,1/26/25 23:18,6,National,40,41.0,low,,2025-01-26T22:30Z,53.4106,-2.9779
+Cardiff,6.32,light rain,93,5.14,1/26/25 23:21,7,National,40,41.0,low,,2025-01-26T22:30Z,51.48,-3.18
+Birmingham,8.86,moderate rain,90,0.7,1/26/25 23:22,8,National,40,41.0,low,,2025-01-26T22:30Z,52.4814,-1.8998
+Nottingham,7.01,scattered clouds,91,4.63,1/26/25 23:19,9,National,40,41.0,low,,2025-01-26T22:30Z,52.9536,-1.1505
+Cambridge,-3.79,overcast clouds,63,5.14,1/26/25 23:20,10,National,40,41.0,low,,2025-01-26T22:30Z,52.2,0.1167
+Bristol,0.74,clear sky,53,2.57,1/26/25 23:18,11,National,40,41.0,low,,2025-01-26T22:30Z,51.4552,-2.5967
+Southampton,7.8,very heavy rain,97,1.34,1/26/25 23:22,12,National,40,41.0,low,,2025-01-26T22:30Z,50.904,-1.4043
+London,8.84,very heavy rain,88,8.23,1/26/25 23:18,13,National,40,41.0,low,,2025-01-26T22:30Z,51.5085,-0.1257
+Brighton,8.1,light rain,94,4.47,1/26/25 23:22,14,National,40,41.0,low,,2025-01-26T22:30Z,50.8284,-0.1395
+Leeds,5.59,broken clouds,94,3.6,1/26/25 23:22,15,National,40,41.0,low,,2025-01-26T22:30Z,53.7964,-1.5477
+Glasgow,3.15,overcast clouds,93,4.12,1/26/25 23:18,16,National,40,41.0,low,,2025-01-26T22:30Z,55.8652,-4.2576
+Swansea,6.37,light rain,92,0.89,1/26/25 23:22,17,National,40,41.0,low,,2025-01-26T22:30Z,51.6208,-3.9432
+Inverness,4.9,overcast clouds,87,4.12,1/26/25 23:22,1,National,40,32.0,low,,2025-01-26T23:00Z,57.4791,-4.224
+Edinburgh,2.86,light rain,90,3.6,1/26/25 23:24,2,National,40,32.0,low,,2025-01-26T23:00Z,55.9521,-3.1965
+Manchester,7.1,light rain,85,3.6,1/26/25 23:27,3,National,40,32.0,low,,2025-01-26T23:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,broken clouds,93,4.12,1/26/25 23:22,4,National,40,32.0,low,,2025-01-26T23:00Z,54.9733,-1.614
+Sheffield,6.01,light rain,91,5.69,1/26/25 23:18,5,National,40,32.0,low,,2025-01-26T23:00Z,53.383,-1.4659
+Liverpool,6.34,light intensity shower rain,90,6.69,1/26/25 23:18,6,National,40,32.0,low,,2025-01-26T23:00Z,53.4106,-2.9779
+Cardiff,6.32,light rain,93,5.14,1/26/25 23:21,7,National,40,32.0,low,,2025-01-26T23:00Z,51.48,-3.18
+Birmingham,8.86,moderate rain,90,0.7,1/26/25 23:22,8,National,40,32.0,low,,2025-01-26T23:00Z,52.4814,-1.8998
+Nottingham,7.01,scattered clouds,91,4.63,1/26/25 23:19,9,National,40,32.0,low,,2025-01-26T23:00Z,52.9536,-1.1505
+Cambridge,-3.79,overcast clouds,63,5.14,1/26/25 23:20,10,National,40,32.0,low,,2025-01-26T23:00Z,52.2,0.1167
+Bristol,0.74,clear sky,53,2.57,1/26/25 23:18,11,National,40,32.0,low,,2025-01-26T23:00Z,51.4552,-2.5967
+Southampton,7.8,very heavy rain,97,1.34,1/26/25 23:22,12,National,40,32.0,low,,2025-01-26T23:00Z,50.904,-1.4043
+London,8.55,heavy intensity rain,89,6.26,1/26/25 23:24,13,National,40,32.0,low,,2025-01-26T23:00Z,51.5085,-0.1257
+Brighton,8.1,light rain,94,4.47,1/26/25 23:22,14,National,40,32.0,low,,2025-01-26T23:00Z,50.8284,-0.1395
+Leeds,5.59,broken clouds,94,3.6,1/26/25 23:22,15,National,40,32.0,low,,2025-01-26T23:00Z,53.7964,-1.5477
+Glasgow,3.15,overcast clouds,93,4.12,1/26/25 23:18,16,National,40,32.0,low,,2025-01-26T23:00Z,55.8652,-4.2576
+Swansea,6.37,light rain,92,0.89,1/26/25 23:22,17,National,40,32.0,low,,2025-01-26T23:00Z,51.6208,-3.9432
+Inverness,4.9,few clouds,87,3.13,1/26/25 23:33,1,National,40,32.0,low,,2025-01-26T23:00Z,57.4791,-4.224
+Edinburgh,2.86,light rain,90,3.6,1/26/25 23:24,2,National,40,32.0,low,,2025-01-26T23:00Z,55.9521,-3.1965
+Manchester,7.1,light rain,85,3.6,1/26/25 23:27,3,National,40,32.0,low,,2025-01-26T23:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,broken clouds,93,4.12,1/26/25 23:31,4,National,40,32.0,low,,2025-01-26T23:00Z,54.9733,-1.614
+Sheffield,6.04,light rain,91,4.12,1/26/25 23:33,5,National,40,32.0,low,,2025-01-26T23:00Z,53.383,-1.4659
+Liverpool,6.34,light intensity shower rain,91,6.69,1/26/25 23:29,6,National,40,32.0,low,,2025-01-26T23:00Z,53.4106,-2.9779
+Cardiff,6.22,moderate rain,94,5.14,1/26/25 23:31,7,National,40,32.0,low,,2025-01-26T23:00Z,51.48,-3.18
+Birmingham,8.86,moderate rain,90,0.7,1/26/25 23:22,8,National,40,32.0,low,,2025-01-26T23:00Z,52.4814,-1.8998
+Nottingham,7.01,light rain,91,4.63,1/26/25 23:31,9,National,40,32.0,low,,2025-01-26T23:00Z,52.9536,-1.1505
+Cambridge,-3.79,overcast clouds,63,5.14,1/26/25 23:31,10,National,40,32.0,low,,2025-01-26T23:00Z,52.2,0.1167
+Bristol,0.49,clear sky,53,2.57,1/26/25 23:34,11,National,40,32.0,low,,2025-01-26T23:00Z,51.4552,-2.5967
+Southampton,7.82,light rain,97,2.24,1/26/25 23:34,12,National,40,32.0,low,,2025-01-26T23:00Z,50.904,-1.4043
+London,8.55,heavy intensity rain,89,6.26,1/26/25 23:24,13,National,40,32.0,low,,2025-01-26T23:00Z,51.5085,-0.1257
+Brighton,8.1,light rain,94,4.92,1/26/25 23:31,14,National,40,32.0,low,,2025-01-26T23:00Z,50.8284,-0.1395
+Leeds,5.27,mist,97,4.12,1/26/25 23:34,15,National,40,32.0,low,,2025-01-26T23:00Z,53.7964,-1.5477
+Glasgow,3.15,broken clouds,94,5.14,1/26/25 23:34,16,National,40,32.0,low,,2025-01-26T23:00Z,55.8652,-4.2576
+Swansea,6.13,overcast clouds,92,0.89,1/26/25 23:30,17,National,40,32.0,low,,2025-01-26T23:00Z,51.6208,-3.9432
+Inverness,4.9,few clouds,87,2.68,1/26/25 23:38,1,National,40,32.0,low,,2025-01-26T23:00Z,57.4791,-4.224
+Edinburgh,2.86,broken clouds,90,3.09,1/26/25 23:38,2,National,40,32.0,low,,2025-01-26T23:00Z,55.9521,-3.1965
+Manchester,7.08,light rain,85,3.6,1/26/25 23:33,3,National,40,32.0,low,,2025-01-26T23:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,overcast clouds,100,4.63,1/26/25 23:37,4,National,40,32.0,low,,2025-01-26T23:00Z,54.9733,-1.614
+Sheffield,6.04,light rain,91,4.12,1/26/25 23:33,5,National,40,32.0,low,,2025-01-26T23:00Z,53.383,-1.4659
+Liverpool,6.34,light rain,92,6.17,1/26/25 23:38,6,National,40,32.0,low,,2025-01-26T23:00Z,53.4106,-2.9779
+Cardiff,6.18,light rain,94,4.12,1/26/25 23:38,7,National,40,32.0,low,,2025-01-26T23:00Z,51.48,-3.18
+Birmingham,8.98,moderate rain,93,0.75,1/26/25 23:38,8,National,40,32.0,low,,2025-01-26T23:00Z,52.4814,-1.8998
+Nottingham,7.01,light rain,92,4.63,1/26/25 23:38,9,National,40,32.0,low,,2025-01-26T23:00Z,52.9536,-1.1505
+Cambridge,-3.79,overcast clouds,63,5.14,1/26/25 23:37,10,National,40,32.0,low,,2025-01-26T23:00Z,52.2,0.1167
+Bristol,0.44,clear sky,54,2.57,1/26/25 23:38,11,National,40,32.0,low,,2025-01-26T23:00Z,51.4552,-2.5967
+Southampton,7.82,light rain,97,2.24,1/26/25 23:33,12,National,40,32.0,low,,2025-01-26T23:00Z,50.904,-1.4043
+London,8.55,heavy intensity rain,89,6.26,1/26/25 23:24,13,National,40,32.0,low,,2025-01-26T23:00Z,51.5085,-0.1257
+Brighton,8.05,light rain,94,4.47,1/26/25 23:38,14,National,40,32.0,low,,2025-01-26T23:00Z,50.8284,-0.1395
+Leeds,5.27,mist,97,4.12,1/26/25 23:34,15,National,40,32.0,low,,2025-01-26T23:00Z,53.7964,-1.5477
+Glasgow,3.15,broken clouds,94,5.14,1/26/25 23:38,16,National,40,32.0,low,,2025-01-26T23:00Z,55.8652,-4.2576
+Swansea,6.13,overcast clouds,92,0.45,1/26/25 23:38,17,National,40,32.0,low,,2025-01-26T23:00Z,51.6208,-3.9432
+Inverness,4.9,few clouds,87,2.68,1/26/25 23:38,1,National,40,32.0,low,,2025-01-26T23:00Z,57.4791,-4.224
+Edinburgh,2.86,broken clouds,90,3.09,1/26/25 23:38,2,National,40,32.0,low,,2025-01-26T23:00Z,55.9521,-3.1965
+Manchester,7.08,light rain,85,3.6,1/26/25 23:33,3,National,40,32.0,low,,2025-01-26T23:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,overcast clouds,100,4.63,1/26/25 23:37,4,National,40,32.0,low,,2025-01-26T23:00Z,54.9733,-1.614
+Sheffield,6.04,light rain,91,4.12,1/26/25 23:33,5,National,40,32.0,low,,2025-01-26T23:00Z,53.383,-1.4659
+Liverpool,6.34,light rain,92,6.17,1/26/25 23:38,6,National,40,32.0,low,,2025-01-26T23:00Z,53.4106,-2.9779
+Cardiff,6.18,light rain,94,4.12,1/26/25 23:38,7,National,40,32.0,low,,2025-01-26T23:00Z,51.48,-3.18
+Birmingham,8.98,moderate rain,93,0.75,1/26/25 23:38,8,National,40,32.0,low,,2025-01-26T23:00Z,52.4814,-1.8998
+Nottingham,7.01,light rain,92,4.63,1/26/25 23:38,9,National,40,32.0,low,,2025-01-26T23:00Z,52.9536,-1.1505
+Cambridge,-3.79,overcast clouds,63,5.14,1/26/25 23:37,10,National,40,32.0,low,,2025-01-26T23:00Z,52.2,0.1167
+Bristol,0.44,clear sky,54,2.57,1/26/25 23:38,11,National,40,32.0,low,,2025-01-26T23:00Z,51.4552,-2.5967
+Southampton,7.82,light rain,97,2.24,1/26/25 23:33,12,National,40,32.0,low,,2025-01-26T23:00Z,50.904,-1.4043
+London,8.17,heavy intensity rain,89,7.2,1/26/25 23:38,13,National,40,32.0,low,,2025-01-26T23:00Z,51.5085,-0.1257
+Brighton,8.05,light rain,94,4.47,1/26/25 23:38,14,National,40,32.0,low,,2025-01-26T23:00Z,50.8284,-0.1395
+Leeds,5.27,mist,97,4.12,1/26/25 23:34,15,National,40,32.0,low,,2025-01-26T23:00Z,53.7964,-1.5477
+Glasgow,3.15,broken clouds,94,5.14,1/26/25 23:38,16,National,40,32.0,low,,2025-01-26T23:00Z,55.8652,-4.2576
+Swansea,6.13,overcast clouds,92,0.45,1/26/25 23:38,17,National,40,32.0,low,,2025-01-26T23:00Z,51.6208,-3.9432
+Inverness,4.9,moderate rain,87,2.68,1/27/25 0:13,National,National,40,,,,2025-01-26T23:30Z,,
+Edinburgh,2.86,broken clouds,91,3.09,1/27/25 0:15,National,National,40,,,,2025-01-26T23:30Z,,
+Manchester,6.88,moderate rain,88,4.12,1/27/25 0:15,National,National,40,,,,2025-01-26T23:30Z,,
+Newcastle upon Tyne,5.12,overcast clouds,100,3.09,1/27/25 0:15,National,National,40,,,,2025-01-26T23:30Z,,
+Sheffield,6.04,light rain,91,3.82,1/27/25 0:11,National,National,40,,,,2025-01-26T23:30Z,,
+Liverpool,6.6,light rain,92,6.17,1/27/25 0:15,National,National,40,,,,2025-01-26T23:30Z,,
+Cardiff,5.58,broken clouds,96,5.14,1/27/25 0:15,National,National,40,,,,2025-01-26T23:30Z,,
+Birmingham,8.33,mist,93,2.06,1/27/25 0:11,National,National,40,,,,2025-01-26T23:30Z,,
+Nottingham,7.01,light rain,90,5.14,1/27/25 0:15,National,National,40,,,,2025-01-26T23:30Z,,
+Cambridge,-3.79,overcast clouds,63,6.69,1/27/25 0:15,National,National,40,,,,2025-01-26T23:30Z,,
+Bristol,-0.45,clear sky,56,0.89,1/27/25 0:08,National,National,40,,,,2025-01-26T23:30Z,,
+Southampton,8.54,overcast clouds,97,4.92,1/27/25 0:16,National,National,40,,,,2025-01-26T23:30Z,,
+London,7.8,moderate rain,90,5.66,1/27/25 0:05,National,National,40,,,,2025-01-26T23:30Z,,
+Brighton,8.51,broken clouds,95,4.47,1/27/25 0:16,National,National,40,,,,2025-01-26T23:30Z,,
+Leeds,5.23,mist,97,4.12,1/27/25 0:16,National,National,40,,,,2025-01-26T23:30Z,,
+Glasgow,3.59,overcast clouds,91,6.17,1/27/25 0:14,National,National,40,,,,2025-01-26T23:30Z,,
+Swansea,6.14,overcast clouds,93,7.23,1/27/25 0:15,National,National,40,,,,2025-01-26T23:30Z,,
+Inverness,4.9,moderate rain,88,2.68,1/27/25 0:26,National,National,41,,,,2025-01-27T00:00Z,,
+Edinburgh,2.86,broken clouds,90,3.09,1/27/25 0:31,National,National,41,,,,2025-01-27T00:00Z,,
+Manchester,7.06,moderate rain,86,4.12,1/27/25 0:30,National,National,41,,,,2025-01-27T00:00Z,,
+Newcastle upon Tyne,5.12,overcast clouds,100,3.09,1/27/25 0:26,National,National,41,,,,2025-01-27T00:00Z,,
+Sheffield,6.04,light rain,91,3.82,1/27/25 0:26,National,National,41,,,,2025-01-27T00:00Z,,
+Liverpool,6.6,moderate rain,92,6.17,1/27/25 0:30,National,National,41,,,,2025-01-27T00:00Z,,
+Cardiff,5.46,broken clouds,96,5.14,1/27/25 0:32,National,National,41,,,,2025-01-27T00:00Z,,
+Birmingham,8.2,moderate rain,94,2.06,1/27/25 0:26,National,National,41,,,,2025-01-27T00:00Z,,
+Nottingham,7.01,light rain,90,5.14,1/27/25 0:26,National,National,41,,,,2025-01-27T00:00Z,,
+Cambridge,-4.79,broken clouds,68,5.66,1/27/25 0:34,National,National,41,,,,2025-01-27T00:00Z,,
+Bristol,-0.67,clear sky,57,1.34,1/27/25 0:26,National,National,41,,,,2025-01-27T00:00Z,,
+Southampton,8.81,overcast clouds,97,4.92,1/27/25 0:25,National,National,41,,,,2025-01-27T00:00Z,,
+London,7.8,light rain,91,5.66,1/27/25 0:31,National,National,41,,,,2025-01-27T00:00Z,,
+Brighton,9.21,overcast clouds,95,3.58,1/27/25 0:31,National,National,41,,,,2025-01-27T00:00Z,,
+Leeds,5.43,light rain,94,0.45,1/27/25 0:29,National,National,41,,,,2025-01-27T00:00Z,,
+Glasgow,3.59,overcast clouds,91,6.17,1/27/25 0:26,National,National,41,,,,2025-01-27T00:00Z,,
+Swansea,6.15,overcast clouds,93,0.45,1/27/25 0:26,National,National,41,,,,2025-01-27T00:00Z,,
+Inverness,4.9,moderate rain,88,4.12,1/27/25 0:39,National,National,41,,,,2025-01-27T00:00Z,,
+Edinburgh,2.94,scattered clouds,91,3.6,1/27/25 0:40,National,National,41,,,,2025-01-27T00:00Z,,
+Manchester,6.93,moderate rain,86,3.09,1/27/25 0:37,National,National,41,,,,2025-01-27T00:00Z,,
+Newcastle upon Tyne,5.12,overcast clouds,100,6.17,1/27/25 0:38,National,National,41,,,,2025-01-27T00:00Z,,
+Sheffield,6.04,light rain,91,3.9,1/27/25 0:41,National,National,41,,,,2025-01-27T00:00Z,,
+Liverpool,6.59,moderate rain,92,6.17,1/27/25 0:41,National,National,41,,,,2025-01-27T00:00Z,,
+Cardiff,5.61,broken clouds,95,4.12,1/27/25 0:38,National,National,41,,,,2025-01-27T00:00Z,,
+Birmingham,8.04,moderate rain,94,2.06,1/27/25 0:41,National,National,41,,,,2025-01-27T00:00Z,,
+Nottingham,7.01,moderate rain,90,4.12,1/27/25 0:38,National,National,41,,,,2025-01-27T00:00Z,,
+Cambridge,-4.91,broken clouds,73,5.66,1/27/25 0:40,National,National,41,,,,2025-01-27T00:00Z,,
+Bristol,-1.09,clear sky,59,0.0,1/27/25 0:41,National,National,41,,,,2025-01-27T00:00Z,,
+Southampton,7.76,broken clouds,96,4.92,1/27/25 0:42,National,National,41,,,,2025-01-27T00:00Z,,
+London,7.8,light rain,91,5.66,1/27/25 0:30,National,National,41,,,,2025-01-27T00:00Z,,
+Brighton,9.26,overcast clouds,95,3.58,1/27/25 0:39,National,National,41,,,,2025-01-27T00:00Z,,
+Leeds,5.43,light rain,94,3.09,1/27/25 0:42,National,National,41,,,,2025-01-27T00:00Z,,
+Glasgow,3.59,broken clouds,91,6.17,1/27/25 0:42,National,National,41,,,,2025-01-27T00:00Z,,
+Swansea,6.15,overcast clouds,93,1.34,1/27/25 0:42,National,National,41,,,,2025-01-27T00:00Z,,
+Inverness,4.9,light rain,90,4.12,1/27/25 1:16,National,National,40,,,,2025-01-27T00:30Z,,
+Edinburgh,2.94,few clouds,91,3.6,1/27/25 1:07,National,National,40,,,,2025-01-27T00:30Z,,
+Manchester,6.74,moderate rain,88,5.14,1/27/25 1:05,National,National,40,,,,2025-01-27T00:30Z,,
+Newcastle upon Tyne,5.12,overcast clouds,100,4.63,1/27/25 1:15,National,National,40,,,,2025-01-27T00:30Z,,
+Sheffield,6.07,moderate rain,91,3.9,1/27/25 1:16,National,National,40,,,,2025-01-27T00:30Z,,
+Liverpool,5.83,heavy intensity rain,92,4.12,1/27/25 1:14,National,National,40,,,,2025-01-27T00:30Z,,
+Cardiff,5.98,broken clouds,93,6.17,1/27/25 1:14,National,National,40,,,,2025-01-27T00:30Z,,
+Birmingham,7.99,light rain,93,2.06,1/27/25 1:15,National,National,40,,,,2025-01-27T00:30Z,,
+Nottingham,6.75,moderate rain,91,5.66,1/27/25 1:16,National,National,40,,,,2025-01-27T00:30Z,,
+Cambridge,-5.1,broken clouds,74,5.66,1/27/25 1:13,National,National,40,,,,2025-01-27T00:30Z,,
+Bristol,-1.65,clear sky,60,1.54,1/27/25 1:14,National,National,40,,,,2025-01-27T00:30Z,,
+Southampton,6.86,broken clouds,95,4.47,1/27/25 1:16,National,National,40,,,,2025-01-27T00:30Z,,
+London,8.44,light rain,93,6.69,1/27/25 1:08,National,National,40,,,,2025-01-27T00:30Z,,
+Brighton,9.81,overcast clouds,93,2.68,1/27/25 1:15,National,National,40,,,,2025-01-27T00:30Z,,
+Leeds,5.43,light rain,94,0.45,1/27/25 1:03,National,National,40,,,,2025-01-27T00:30Z,,
+Glasgow,3.63,overcast clouds,91,5.14,1/27/25 1:07,National,National,40,,,,2025-01-27T00:30Z,,
+Swansea,6.42,light rain,93,1.79,1/27/25 1:12,National,National,40,,,,2025-01-27T00:30Z,,
+Inverness,4.9,light rain,90,4.12,1/27/25 1:16,1,National,41,40.0,low,,2025-01-27T00:30Z,57.4791,-4.224
+Edinburgh,2.94,few clouds,91,3.6,1/27/25 1:15,2,National,41,40.0,low,,2025-01-27T00:30Z,55.9521,-3.1965
+Manchester,6.37,heavy intensity rain,89,5.14,1/27/25 1:19,3,National,41,40.0,low,,2025-01-27T00:30Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,overcast clouds,100,4.63,1/27/25 1:15,4,National,41,40.0,low,,2025-01-27T00:30Z,54.9733,-1.614
+Sheffield,6.07,moderate rain,91,3.9,1/27/25 1:16,5,National,41,40.0,low,,2025-01-27T00:30Z,53.383,-1.4659
+Liverpool,5.83,heavy intensity rain,92,4.12,1/27/25 1:14,6,National,41,40.0,low,,2025-01-27T00:30Z,53.4106,-2.9779
+Cardiff,5.98,broken clouds,93,6.17,1/27/25 1:14,7,National,41,40.0,low,,2025-01-27T00:30Z,51.48,-3.18
+Birmingham,7.99,light rain,93,2.06,1/27/25 1:15,8,National,41,40.0,low,,2025-01-27T00:30Z,52.4814,-1.8998
+Nottingham,6.75,moderate rain,91,5.66,1/27/25 1:16,9,National,41,40.0,low,,2025-01-27T00:30Z,52.9536,-1.1505
+Cambridge,-5.1,broken clouds,74,5.66,1/27/25 1:13,10,National,41,40.0,low,,2025-01-27T00:30Z,52.2,0.1167
+Bristol,-1.65,clear sky,60,1.54,1/27/25 1:14,11,National,41,40.0,low,,2025-01-27T00:30Z,51.4552,-2.5967
+Southampton,6.86,broken clouds,95,4.47,1/27/25 1:16,12,National,41,40.0,low,,2025-01-27T00:30Z,50.904,-1.4043
+London,8.44,light rain,93,6.69,1/27/25 1:08,13,National,41,40.0,low,,2025-01-27T00:30Z,51.5085,-0.1257
+Brighton,9.81,overcast clouds,93,2.68,1/27/25 1:15,14,National,41,40.0,low,,2025-01-27T00:30Z,50.8284,-0.1395
+Leeds,5.43,light rain,94,0.45,1/27/25 1:16,15,National,41,40.0,low,,2025-01-27T00:30Z,53.7964,-1.5477
+Glasgow,3.63,overcast clouds,91,5.14,1/27/25 1:16,16,National,41,40.0,low,,2025-01-27T00:30Z,55.8652,-4.2576
+Swansea,6.42,light rain,93,1.79,1/27/25 1:12,17,National,41,40.0,low,,2025-01-27T00:30Z,51.6208,-3.9432
+Inverness,4.9,overcast clouds,90,4.12,1/27/25 1:30,1,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,57.4791,-4.224
+Edinburgh,2.94,few clouds,91,3.6,1/27/25 1:25,2,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,55.9521,-3.1965
+Manchester,6.34,moderate rain,89,5.14,1/27/25 1:25,3,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,overcast clouds,100,4.63,1/27/25 1:32,4,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,54.9733,-1.614
+Sheffield,6.07,moderate rain,91,3.9,1/27/25 1:27,5,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,53.383,-1.4659
+Liverpool,5.78,moderate rain,91,4.12,1/27/25 1:23,6,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,53.4106,-2.9779
+Cardiff,6.07,broken clouds,93,6.17,1/27/25 1:28,7,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,51.48,-3.18
+Birmingham,7.99,overcast clouds,93,2.06,1/27/25 1:27,8,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,52.4814,-1.8998
+Nottingham,7.0,heavy intensity rain,91,5.66,1/27/25 1:28,9,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,52.9536,-1.1505
+Cambridge,-5.62,broken clouds,77,4.63,1/27/25 1:32,10,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,52.2,0.1167
+Bristol,-2.2,clear sky,63,1.54,1/27/25 1:26,11,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,51.4552,-2.5967
+Southampton,7.05,broken clouds,96,3.13,1/27/25 1:32,12,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,50.904,-1.4043
+London,9.03,overcast clouds,93,6.69,1/27/25 1:27,13,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,51.5085,-0.1257
+Brighton,9.15,overcast clouds,90,2.68,1/27/25 1:32,14,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,50.8284,-0.1395
+Leeds,5.43,moderate rain,94,0.45,1/27/25 1:28,15,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,53.7964,-1.5477
+Glasgow,3.63,light rain,91,5.14,1/27/25 1:28,16,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,55.8652,-4.2576
+Swansea,7.07,broken clouds,91,2.68,1/27/25 1:31,17,National,41,42.0,low,"""N/A""",2025-01-27T01:00Z,51.6208,-3.9432
+Inverness,4.9,overcast clouds,90,4.12,1/27/25 1:30,1,National,41,42.0,low,,2025-01-27T01:00Z,57.4791,-4.224
+Edinburgh,2.94,few clouds,91,3.6,1/27/25 1:25,2,National,41,42.0,low,,2025-01-27T01:00Z,55.9521,-3.1965
+Manchester,6.34,moderate rain,89,5.14,1/27/25 1:25,3,National,41,42.0,low,,2025-01-27T01:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,overcast clouds,100,4.63,1/27/25 1:32,4,National,41,42.0,low,,2025-01-27T01:00Z,54.9733,-1.614
+Sheffield,6.07,moderate rain,91,3.9,1/27/25 1:27,5,National,41,42.0,low,,2025-01-27T01:00Z,53.383,-1.4659
+Liverpool,5.78,moderate rain,91,4.12,1/27/25 1:23,6,National,41,42.0,low,,2025-01-27T01:00Z,53.4106,-2.9779
+Cardiff,6.07,broken clouds,93,6.17,1/27/25 1:28,7,National,41,42.0,low,,2025-01-27T01:00Z,51.48,-3.18
+Birmingham,7.99,overcast clouds,93,2.06,1/27/25 1:27,8,National,41,42.0,low,,2025-01-27T01:00Z,52.4814,-1.8998
+Nottingham,7.0,heavy intensity rain,91,5.66,1/27/25 1:28,9,National,41,42.0,low,,2025-01-27T01:00Z,52.9536,-1.1505
+Cambridge,-5.62,broken clouds,77,4.63,1/27/25 1:32,10,National,41,42.0,low,,2025-01-27T01:00Z,52.2,0.1167
+Bristol,-2.2,clear sky,63,1.54,1/27/25 1:26,11,National,41,42.0,low,,2025-01-27T01:00Z,51.4552,-2.5967
+Southampton,7.05,broken clouds,96,3.13,1/27/25 1:32,12,National,41,42.0,low,,2025-01-27T01:00Z,50.904,-1.4043
+London,9.03,overcast clouds,93,6.69,1/27/25 1:27,13,National,41,42.0,low,,2025-01-27T01:00Z,51.5085,-0.1257
+Brighton,9.15,overcast clouds,90,2.68,1/27/25 1:32,14,National,41,42.0,low,,2025-01-27T01:00Z,50.8284,-0.1395
+Leeds,5.43,moderate rain,94,0.45,1/27/25 1:28,15,National,41,42.0,low,,2025-01-27T01:00Z,53.7964,-1.5477
+Glasgow,3.63,light rain,91,5.14,1/27/25 1:28,16,National,41,42.0,low,,2025-01-27T01:00Z,55.8652,-4.2576
+Swansea,7.07,broken clouds,91,2.68,1/27/25 1:31,17,National,41,42.0,low,,2025-01-27T01:00Z,51.6208,-3.9432
+Inverness,4.9,scattered clouds,90,4.12,1/27/25 1:36,1,National,41,42.0,low,,2025-01-27T01:00Z,57.4791,-4.224
+Edinburgh,3.1,broken clouds,91,3.09,1/27/25 1:33,2,National,41,42.0,low,,2025-01-27T01:00Z,55.9521,-3.1965
+Manchester,6.03,moderate rain,88,5.14,1/27/25 1:31,3,National,41,42.0,low,,2025-01-27T01:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,overcast clouds,100,4.63,1/27/25 1:32,4,National,41,42.0,low,,2025-01-27T01:00Z,54.9733,-1.614
+Sheffield,6.07,heavy intensity rain,91,6.21,1/27/25 1:35,5,National,41,42.0,low,,2025-01-27T01:00Z,53.383,-1.4659
+Liverpool,5.51,moderate rain,91,4.12,1/27/25 1:31,6,National,41,42.0,low,,2025-01-27T01:00Z,53.4106,-2.9779
+Cardiff,6.08,scattered clouds,93,5.14,1/27/25 1:34,7,National,41,42.0,low,,2025-01-27T01:00Z,51.48,-3.18
+Birmingham,7.96,overcast clouds,93,2.06,1/27/25 1:30,8,National,41,42.0,low,,2025-01-27T01:00Z,52.4814,-1.8998
+Nottingham,6.92,moderate rain,91,4.12,1/27/25 1:36,9,National,41,42.0,low,,2025-01-27T01:00Z,52.9536,-1.1505
+Cambridge,-5.62,broken clouds,77,4.63,1/27/25 1:25,10,National,41,42.0,low,,2025-01-27T01:00Z,52.2,0.1167
+Bristol,-2.52,clear sky,65,1.54,1/27/25 1:35,11,National,41,42.0,low,,2025-01-27T01:00Z,51.4552,-2.5967
+Southampton,6.88,broken clouds,96,3.13,1/27/25 1:36,12,National,41,42.0,low,,2025-01-27T01:00Z,50.904,-1.4043
+London,9.28,overcast clouds,91,7.2,1/27/25 1:32,13,National,41,42.0,low,,2025-01-27T01:00Z,51.5085,-0.1257
+Brighton,9.15,overcast clouds,90,2.68,1/27/25 1:32,14,National,41,42.0,low,,2025-01-27T01:00Z,50.8284,-0.1395
+Leeds,5.43,moderate rain,94,0.45,1/27/25 1:32,15,National,41,42.0,low,,2025-01-27T01:00Z,53.7964,-1.5477
+Glasgow,3.63,broken clouds,91,5.66,1/27/25 1:35,16,National,41,42.0,low,,2025-01-27T01:00Z,55.8652,-4.2576
+Swansea,7.07,broken clouds,91,2.68,1/27/25 1:34,17,National,41,42.0,low,,2025-01-27T01:00Z,51.6208,-3.9432
+Inverness,4.9,scattered clouds,90,4.12,1/27/25 1:36,1,National,41,42.0,low,,2025-01-27T01:00Z,57.4791,-4.224
+Edinburgh,3.1,broken clouds,91,3.09,1/27/25 1:33,2,National,41,42.0,low,,2025-01-27T01:00Z,55.9521,-3.1965
+Manchester,6.03,moderate rain,88,5.14,1/27/25 1:31,3,National,41,42.0,low,,2025-01-27T01:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,overcast clouds,100,4.63,1/27/25 1:32,4,National,41,42.0,low,,2025-01-27T01:00Z,54.9733,-1.614
+Sheffield,6.07,heavy intensity rain,91,6.21,1/27/25 1:35,5,National,41,42.0,low,,2025-01-27T01:00Z,53.383,-1.4659
+Liverpool,5.51,moderate rain,91,4.12,1/27/25 1:31,6,National,41,42.0,low,,2025-01-27T01:00Z,53.4106,-2.9779
+Cardiff,6.08,scattered clouds,93,5.14,1/27/25 1:34,7,National,41,42.0,low,,2025-01-27T01:00Z,51.48,-3.18
+Birmingham,7.96,overcast clouds,93,2.06,1/27/25 1:30,8,National,41,42.0,low,,2025-01-27T01:00Z,52.4814,-1.8998
+Nottingham,6.92,moderate rain,91,4.12,1/27/25 1:36,9,National,41,42.0,low,,2025-01-27T01:00Z,52.9536,-1.1505
+Cambridge,-5.62,broken clouds,77,4.63,1/27/25 1:25,10,National,41,42.0,low,,2025-01-27T01:00Z,52.2,0.1167
+Bristol,-2.52,clear sky,65,1.54,1/27/25 1:35,11,National,41,42.0,low,,2025-01-27T01:00Z,51.4552,-2.5967
+Southampton,6.88,broken clouds,96,3.13,1/27/25 1:36,12,National,41,42.0,low,,2025-01-27T01:00Z,50.904,-1.4043
+London,9.28,overcast clouds,91,7.2,1/27/25 1:32,13,National,41,42.0,low,,2025-01-27T01:00Z,51.5085,-0.1257
+Brighton,9.15,overcast clouds,90,2.68,1/27/25 1:32,14,National,41,42.0,low,,2025-01-27T01:00Z,50.8284,-0.1395
+Leeds,5.43,moderate rain,94,0.45,1/27/25 1:32,15,National,41,42.0,low,,2025-01-27T01:00Z,53.7964,-1.5477
+Glasgow,3.63,broken clouds,91,5.66,1/27/25 1:35,16,National,41,42.0,low,,2025-01-27T01:00Z,55.8652,-4.2576
+Swansea,7.07,broken clouds,91,2.68,1/27/25 1:34,17,National,41,42.0,low,,2025-01-27T01:00Z,51.6208,-3.9432
+Inverness,4.9,scattered clouds,90,4.12,1/27/25 1:36,1,National,41,42.0,low,,2025-01-27T01:00Z,57.4791,-4.224
+Edinburgh,3.1,broken clouds,91,3.09,1/27/25 1:33,2,National,41,42.0,low,,2025-01-27T01:00Z,55.9521,-3.1965
+Manchester,6.03,moderate rain,88,5.14,1/27/25 1:31,3,National,41,42.0,low,,2025-01-27T01:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,overcast clouds,100,4.63,1/27/25 1:32,4,National,41,42.0,low,,2025-01-27T01:00Z,54.9733,-1.614
+Sheffield,6.07,heavy intensity rain,91,6.21,1/27/25 1:35,5,National,41,42.0,low,,2025-01-27T01:00Z,53.383,-1.4659
+Liverpool,5.51,moderate rain,91,4.12,1/27/25 1:31,6,National,41,42.0,low,,2025-01-27T01:00Z,53.4106,-2.9779
+Cardiff,6.08,scattered clouds,93,5.14,1/27/25 1:34,7,National,41,42.0,low,,2025-01-27T01:00Z,51.48,-3.18
+Birmingham,7.89,overcast clouds,93,2.06,1/27/25 1:40,8,National,41,42.0,low,,2025-01-27T01:00Z,52.4814,-1.8998
+Nottingham,7.0,heavy intensity rain,91,5.66,1/27/25 1:28,9,National,41,42.0,low,,2025-01-27T01:00Z,52.9536,-1.1505
+Cambridge,-5.62,broken clouds,77,4.63,1/27/25 1:32,10,National,41,42.0,low,,2025-01-27T01:00Z,52.2,0.1167
+Bristol,-2.53,clear sky,65,1.54,1/27/25 1:38,11,National,41,42.0,low,,2025-01-27T01:00Z,51.4552,-2.5967
+Southampton,7.05,broken clouds,96,3.13,1/27/25 1:32,12,National,41,42.0,low,,2025-01-27T01:00Z,50.904,-1.4043
+London,9.35,overcast clouds,92,7.2,1/27/25 1:38,13,National,41,42.0,low,,2025-01-27T01:00Z,51.5085,-0.1257
+Brighton,9.15,overcast clouds,90,2.68,1/27/25 1:32,14,National,41,42.0,low,,2025-01-27T01:00Z,50.8284,-0.1395
+Leeds,5.43,moderate rain,94,0.45,1/27/25 1:37,15,National,41,42.0,low,,2025-01-27T01:00Z,53.7964,-1.5477
+Glasgow,3.63,broken clouds,91,5.66,1/27/25 1:41,16,National,41,42.0,low,,2025-01-27T01:00Z,55.8652,-4.2576
+Swansea,7.07,broken clouds,91,2.68,1/27/25 1:31,17,National,41,42.0,low,,2025-01-27T01:00Z,51.6208,-3.9432
+Inverness,4.9,scattered clouds,91,4.12,1/27/25 1:43,1,National,41,42.0,low,,2025-01-27T01:00Z,57.4791,-4.224
+Edinburgh,3.1,broken clouds,91,3.09,1/27/25 1:40,2,National,41,42.0,low,,2025-01-27T01:00Z,55.9521,-3.1965
+Manchester,5.46,moderate rain,88,4.12,1/27/25 1:42,3,National,41,42.0,low,,2025-01-27T01:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,overcast clouds,100,3.6,1/27/25 1:40,4,National,41,42.0,low,,2025-01-27T01:00Z,54.9733,-1.614
+Sheffield,6.07,moderate rain,92,6.21,1/27/25 1:43,5,National,41,42.0,low,,2025-01-27T01:00Z,53.383,-1.4659
+Liverpool,5.14,moderate rain,90,4.12,1/27/25 1:42,6,National,41,42.0,low,,2025-01-27T01:00Z,53.4106,-2.9779
+Cardiff,6.19,scattered clouds,93,5.14,1/27/25 1:42,7,National,41,42.0,low,,2025-01-27T01:00Z,51.48,-3.18
+Birmingham,7.89,overcast clouds,93,2.06,1/27/25 1:40,8,National,41,42.0,low,,2025-01-27T01:00Z,52.4814,-1.8998
+Nottingham,6.7,moderate rain,91,4.12,1/27/25 1:43,9,National,41,42.0,low,,2025-01-27T01:00Z,52.9536,-1.1505
+Cambridge,-5.82,broken clouds,78,4.63,1/27/25 1:43,10,National,41,42.0,low,,2025-01-27T01:00Z,52.2,0.1167
+Bristol,-2.53,clear sky,65,1.54,1/27/25 1:38,11,National,41,42.0,low,,2025-01-27T01:00Z,51.4552,-2.5967
+Southampton,7.05,broken clouds,96,3.58,1/27/25 1:43,12,National,41,42.0,low,,2025-01-27T01:00Z,50.904,-1.4043
+London,9.35,overcast clouds,92,7.2,1/27/25 1:38,13,National,41,42.0,low,,2025-01-27T01:00Z,51.5085,-0.1257
+Brighton,9.1,overcast clouds,90,2.68,1/27/25 1:38,14,National,41,42.0,low,,2025-01-27T01:00Z,50.8284,-0.1395
+Leeds,5.43,moderate rain,94,0.45,1/27/25 1:37,15,National,41,42.0,low,,2025-01-27T01:00Z,53.7964,-1.5477
+Glasgow,3.63,broken clouds,91,5.66,1/27/25 1:41,16,National,41,42.0,low,,2025-01-27T01:00Z,55.8652,-4.2576
+Swansea,7.07,broken clouds,91,2.68,1/27/25 1:43,17,National,41,42.0,low,,2025-01-27T01:00Z,51.6208,-3.9432
+Inverness,4.9,scattered clouds,91,4.12,1/27/25 2:00,1,National,41,39.0,low,,2025-01-27T01:30Z,57.4791,-4.224
+Edinburgh,3.1,broken clouds,91,3.09,1/27/25 1:57,2,National,41,39.0,low,,2025-01-27T01:30Z,55.9521,-3.1965
+Manchester,5.24,moderate rain,89,4.12,1/27/25 2:00,3,National,41,39.0,low,,2025-01-27T01:30Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,light rain,100,3.6,1/27/25 1:59,4,National,41,39.0,low,,2025-01-27T01:30Z,54.9733,-1.614
+Sheffield,5.54,moderate rain,91,6.21,1/27/25 1:57,5,National,41,39.0,low,,2025-01-27T01:30Z,53.383,-1.4659
+Liverpool,5.13,moderate rain,90,4.12,1/27/25 1:55,6,National,41,39.0,low,,2025-01-27T01:30Z,53.4106,-2.9779
+Cardiff,6.42,light rain,93,5.14,1/27/25 1:56,7,National,41,39.0,low,,2025-01-27T01:30Z,51.48,-3.18
+Birmingham,7.72,overcast clouds,93,2.06,1/27/25 1:57,8,National,41,39.0,low,,2025-01-27T01:30Z,52.4814,-1.8998
+Nottingham,6.7,moderate rain,92,4.12,1/27/25 2:00,9,National,41,39.0,low,,2025-01-27T01:30Z,52.9536,-1.1505
+Cambridge,-5.94,broken clouds,78,4.63,1/27/25 1:57,10,National,41,39.0,low,,2025-01-27T01:30Z,52.2,0.1167
+Bristol,-2.61,overcast clouds,65,0.45,1/27/25 2:00,11,National,41,39.0,low,,2025-01-27T01:30Z,51.4552,-2.5967
+Southampton,7.0,broken clouds,95,4.47,1/27/25 1:59,12,National,41,39.0,low,,2025-01-27T01:30Z,50.904,-1.4043
+London,9.46,overcast clouds,91,7.6,1/27/25 1:53,13,National,41,39.0,low,,2025-01-27T01:30Z,51.5085,-0.1257
+Brighton,8.88,overcast clouds,89,2.68,1/27/25 2:00,14,National,41,39.0,low,,2025-01-27T01:30Z,50.8284,-0.1395
+Leeds,5.42,moderate rain,94,3.8,1/27/25 2:00,15,National,41,39.0,low,,2025-01-27T01:30Z,53.7964,-1.5477
+Glasgow,3.63,broken clouds,91,5.66,1/27/25 1:59,16,National,41,39.0,low,,2025-01-27T01:30Z,55.8652,-4.2576
+Swansea,7.07,broken clouds,91,2.68,1/27/25 2:00,17,National,41,39.0,low,,2025-01-27T01:30Z,51.6208,-3.9432
+Inverness,4.9,scattered clouds,91,4.12,1/27/25 2:00,1,National,41,39.0,low,,2025-01-27T01:30Z,57.4791,-4.224
+Edinburgh,3.1,broken clouds,91,3.09,1/27/25 1:57,2,National,41,39.0,low,,2025-01-27T01:30Z,55.9521,-3.1965
+Manchester,5.24,moderate rain,89,4.12,1/27/25 2:00,3,National,41,39.0,low,,2025-01-27T01:30Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,light rain,100,3.6,1/27/25 1:59,4,National,41,39.0,low,,2025-01-27T01:30Z,54.9733,-1.614
+Sheffield,5.54,moderate rain,91,6.21,1/27/25 1:57,5,National,41,39.0,low,,2025-01-27T01:30Z,53.383,-1.4659
+Liverpool,5.13,moderate rain,90,4.12,1/27/25 1:55,6,National,41,39.0,low,,2025-01-27T01:30Z,53.4106,-2.9779
+Cardiff,6.42,light rain,93,5.14,1/27/25 1:56,7,National,41,39.0,low,,2025-01-27T01:30Z,51.48,-3.18
+Birmingham,7.72,overcast clouds,93,2.06,1/27/25 1:57,8,National,41,39.0,low,,2025-01-27T01:30Z,52.4814,-1.8998
+Nottingham,6.7,moderate rain,92,4.12,1/27/25 2:00,9,National,41,39.0,low,,2025-01-27T01:30Z,52.9536,-1.1505
+Cambridge,-5.94,broken clouds,78,4.63,1/27/25 1:57,10,National,41,39.0,low,,2025-01-27T01:30Z,52.2,0.1167
+Bristol,-2.61,overcast clouds,65,0.45,1/27/25 2:00,11,National,41,39.0,low,,2025-01-27T01:30Z,51.4552,-2.5967
+Southampton,7.0,broken clouds,95,4.47,1/27/25 1:59,12,National,41,39.0,low,,2025-01-27T01:30Z,50.904,-1.4043
+London,9.43,overcast clouds,89,7.72,1/27/25 2:04,13,National,41,39.0,low,,2025-01-27T01:30Z,51.5085,-0.1257
+Brighton,8.88,overcast clouds,89,2.68,1/27/25 2:00,14,National,41,39.0,low,,2025-01-27T01:30Z,50.8284,-0.1395
+Leeds,5.42,moderate rain,94,3.8,1/27/25 2:00,15,National,41,39.0,low,,2025-01-27T01:30Z,53.7964,-1.5477
+Glasgow,3.63,broken clouds,91,5.66,1/27/25 1:59,16,National,41,39.0,low,,2025-01-27T01:30Z,55.8652,-4.2576
+Swansea,7.07,broken clouds,91,2.68,1/27/25 2:00,17,National,41,39.0,low,,2025-01-27T01:30Z,51.6208,-3.9432
+Inverness,3.83,overcast clouds,92,0.89,1/27/25 4:13,1,National,46,44.0,low,,2025-01-27T03:30Z,57.4791,-4.224
+Edinburgh,4.02,light rain,91,2.57,1/27/25 4:23,2,National,46,44.0,low,,2025-01-27T03:30Z,55.9521,-3.1965
+Manchester,3.17,overcast clouds,88,2.06,1/27/25 4:20,3,National,46,44.0,low,,2025-01-27T03:30Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,moderate rain,100,1.03,1/27/25 4:23,4,National,46,44.0,low,,2025-01-27T03:30Z,54.9733,-1.614
+Sheffield,3.32,overcast clouds,92,11.19,1/27/25 4:23,5,National,46,44.0,low,,2025-01-27T03:30Z,53.383,-1.4659
+Liverpool,3.5,overcast clouds,91,3.6,1/27/25 4:23,6,National,46,44.0,low,,2025-01-27T03:30Z,53.4106,-2.9779
+Cardiff,6.14,scattered clouds,83,6.69,1/27/25 4:23,7,National,46,44.0,low,,2025-01-27T03:30Z,51.48,-3.18
+Birmingham,7.91,mist,96,2.06,1/27/25 4:15,8,National,46,44.0,low,,2025-01-27T03:30Z,52.4814,-1.8998
+Nottingham,3.78,scattered clouds,89,5.66,1/27/25 4:23,9,National,46,44.0,low,,2025-01-27T03:30Z,52.9536,-1.1505
+Cambridge,-7.09,clear sky,79,5.66,1/27/25 4:22,10,National,46,44.0,low,,2025-01-27T03:30Z,52.2,0.1167
+Bristol,-3.97,clear sky,69,1.54,1/27/25 4:23,11,National,46,44.0,low,,2025-01-27T03:30Z,51.4552,-2.5967
+Southampton,6.87,broken clouds,95,3.13,1/27/25 4:21,12,National,46,44.0,low,,2025-01-27T03:30Z,50.904,-1.4043
+London,7.66,broken clouds,86,6.17,1/27/25 4:19,13,National,46,44.0,low,,2025-01-27T03:30Z,51.5085,-0.1257
+Brighton,8.59,broken clouds,85,2.24,1/27/25 4:21,14,National,46,44.0,low,,2025-01-27T03:30Z,50.8284,-0.1395
+Leeds,3.72,overcast clouds,93,6.54,1/27/25 4:23,15,National,46,44.0,low,,2025-01-27T03:30Z,53.7964,-1.5477
+Glasgow,3.69,moderate rain,94,3.6,1/27/25 4:23,16,National,46,44.0,low,,2025-01-27T03:30Z,55.8652,-4.2576
+Swansea,5.07,moderate rain,89,6.26,1/27/25 4:23,17,National,46,44.0,low,,2025-01-27T03:30Z,51.6208,-3.9432
+Inverness,3.47,overcast clouds,92,0.51,1/27/25 4:25,1,National,46,44.0,low,,2025-01-27T03:30Z,57.4791,-4.224
+Edinburgh,4.02,light rain,91,2.57,1/27/25 4:23,2,National,46,44.0,low,,2025-01-27T03:30Z,55.9521,-3.1965
+Manchester,3.17,overcast clouds,88,2.06,1/27/25 4:20,3,National,46,44.0,low,,2025-01-27T03:30Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,moderate rain,100,1.03,1/27/25 4:23,4,National,46,44.0,low,,2025-01-27T03:30Z,54.9733,-1.614
+Sheffield,3.32,overcast clouds,92,11.19,1/27/25 4:23,5,National,46,44.0,low,,2025-01-27T03:30Z,53.383,-1.4659
+Liverpool,3.5,overcast clouds,91,3.6,1/27/25 4:23,6,National,46,44.0,low,,2025-01-27T03:30Z,53.4106,-2.9779
+Cardiff,6.4,scattered clouds,82,6.69,1/27/25 4:25,7,National,46,44.0,low,,2025-01-27T03:30Z,51.48,-3.18
+Birmingham,7.93,moderate rain,96,2.06,1/27/25 4:23,8,National,46,44.0,low,,2025-01-27T03:30Z,52.4814,-1.8998
+Nottingham,3.78,scattered clouds,89,5.66,1/27/25 4:21,9,National,46,44.0,low,,2025-01-27T03:30Z,52.9536,-1.1505
+Cambridge,-7.09,clear sky,80,5.66,1/27/25 4:18,10,National,46,44.0,low,,2025-01-27T03:30Z,52.2,0.1167
+Bristol,-3.98,clear sky,69,1.54,1/27/25 4:25,11,National,46,44.0,low,,2025-01-27T03:30Z,51.4552,-2.5967
+Southampton,6.87,broken clouds,95,2.68,1/27/25 4:25,12,National,46,44.0,low,,2025-01-27T03:30Z,50.904,-1.4043
+London,7.75,broken clouds,86,6.17,1/27/25 4:14,13,National,46,44.0,low,,2025-01-27T03:30Z,51.5085,-0.1257
+Brighton,8.27,broken clouds,85,1.79,1/27/25 4:25,14,National,46,44.0,low,,2025-01-27T03:30Z,50.8284,-0.1395
+Leeds,3.63,overcast clouds,93,6.54,1/27/25 4:25,15,National,46,44.0,low,,2025-01-27T03:30Z,53.7964,-1.5477
+Glasgow,3.69,moderate rain,94,3.6,1/27/25 4:24,16,National,46,44.0,low,,2025-01-27T03:30Z,55.8652,-4.2576
+Swansea,5.07,light rain,89,6.26,1/27/25 4:25,17,National,46,44.0,low,,2025-01-27T03:30Z,51.6208,-3.9432
+Inverness,3.47,overcast clouds,92,0.51,1/27/25 4:25,1,National,46,47.0,low,,2025-01-27T04:00Z,57.4791,-4.224
+Edinburgh,4.02,light rain,91,2.57,1/27/25 4:23,2,National,46,47.0,low,,2025-01-27T04:00Z,55.9521,-3.1965
+Manchester,3.17,overcast clouds,88,2.06,1/27/25 4:20,3,National,46,47.0,low,,2025-01-27T04:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,moderate rain,100,1.03,1/27/25 4:23,4,National,46,47.0,low,,2025-01-27T04:00Z,54.9733,-1.614
+Sheffield,3.32,overcast clouds,92,11.19,1/27/25 4:23,5,National,46,47.0,low,,2025-01-27T04:00Z,53.383,-1.4659
+Liverpool,3.5,overcast clouds,91,3.6,1/27/25 4:23,6,National,46,47.0,low,,2025-01-27T04:00Z,53.4106,-2.9779
+Cardiff,6.14,scattered clouds,83,6.69,1/27/25 4:23,7,National,46,47.0,low,,2025-01-27T04:00Z,51.48,-3.18
+Birmingham,7.95,moderate rain,96,2.06,1/27/25 4:31,8,National,46,47.0,low,,2025-01-27T04:00Z,52.4814,-1.8998
+Nottingham,3.78,scattered clouds,89,5.66,1/27/25 4:23,9,National,46,47.0,low,,2025-01-27T04:00Z,52.9536,-1.1505
+Cambridge,-7.09,clear sky,79,5.66,1/27/25 4:22,10,National,46,47.0,low,,2025-01-27T04:00Z,52.2,0.1167
+Bristol,-3.97,clear sky,69,1.54,1/27/25 4:23,11,National,46,47.0,low,,2025-01-27T04:00Z,51.4552,-2.5967
+Southampton,6.87,broken clouds,95,3.13,1/27/25 4:21,12,National,46,47.0,low,,2025-01-27T04:00Z,50.904,-1.4043
+London,7.66,broken clouds,86,6.17,1/27/25 4:19,13,National,46,47.0,low,,2025-01-27T04:00Z,51.5085,-0.1257
+Brighton,8.59,broken clouds,85,2.24,1/27/25 4:21,14,National,46,47.0,low,,2025-01-27T04:00Z,50.8284,-0.1395
+Leeds,3.72,overcast clouds,93,6.54,1/27/25 4:23,15,National,46,47.0,low,,2025-01-27T04:00Z,53.7964,-1.5477
+Glasgow,3.69,moderate rain,94,3.6,1/27/25 4:23,16,National,46,47.0,low,,2025-01-27T04:00Z,55.8652,-4.2576
+Swansea,5.07,moderate rain,89,6.26,1/27/25 4:23,17,National,46,47.0,low,,2025-01-27T04:00Z,51.6208,-3.9432
+Inverness,2.39,overcast clouds,92,0.45,1/27/25 4:37,1,National,46,47.0,low,,2025-01-27T04:00Z,57.4791,-4.224
+Edinburgh,4.02,light rain,91,2.57,1/27/25 4:28,2,National,46,47.0,low,,2025-01-27T04:00Z,55.9521,-3.1965
+Manchester,3.3,overcast clouds,88,2.06,1/27/25 4:26,3,National,46,47.0,low,,2025-01-27T04:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,moderate rain,100,2.06,1/27/25 4:37,4,National,46,47.0,low,,2025-01-27T04:00Z,54.9733,-1.614
+Sheffield,3.29,overcast clouds,91,10.71,1/27/25 4:33,5,National,46,47.0,low,,2025-01-27T04:00Z,53.383,-1.4659
+Liverpool,3.5,overcast clouds,92,3.6,1/27/25 4:28,6,National,46,47.0,low,,2025-01-27T04:00Z,53.4106,-2.9779
+Cardiff,6.4,scattered clouds,82,6.69,1/27/25 4:25,7,National,46,47.0,low,,2025-01-27T04:00Z,51.48,-3.18
+Birmingham,7.93,moderate rain,96,2.06,1/27/25 4:26,8,National,46,47.0,low,,2025-01-27T04:00Z,52.4814,-1.8998
+Nottingham,3.53,clear sky,90,5.66,1/27/25 4:36,9,National,46,47.0,low,,2025-01-27T04:00Z,52.9536,-1.1505
+Cambridge,-7.09,clear sky,79,5.66,1/27/25 4:33,10,National,46,47.0,low,,2025-01-27T04:00Z,52.2,0.1167
+Bristol,-3.98,clear sky,69,1.54,1/27/25 4:25,11,National,46,47.0,low,,2025-01-27T04:00Z,51.4552,-2.5967
+Southampton,6.69,broken clouds,95,3.13,1/27/25 4:37,12,National,46,47.0,low,,2025-01-27T04:00Z,50.904,-1.4043
+London,7.66,broken clouds,85,6.17,1/27/25 4:35,13,National,46,47.0,low,,2025-01-27T04:00Z,51.5085,-0.1257
+Brighton,8.27,broken clouds,85,1.34,1/27/25 4:35,14,National,46,47.0,low,,2025-01-27T04:00Z,50.8284,-0.1395
+Leeds,3.63,overcast clouds,93,6.54,1/27/25 4:25,15,National,46,47.0,low,,2025-01-27T04:00Z,53.7964,-1.5477
+Glasgow,3.69,moderate rain,94,3.6,1/27/25 4:28,16,National,46,47.0,low,,2025-01-27T04:00Z,55.8652,-4.2576
+Swansea,4.63,broken clouds,91,4.92,1/27/25 4:37,17,National,46,47.0,low,,2025-01-27T04:00Z,51.6208,-3.9432
+Inverness,2.39,overcast clouds,92,0.45,2025-01-27 04:37:11,1,National,50,47.0,low,,2025-01-27T04:00Z,57.4791,-4.224
+Edinburgh,4.02,light rain,91,3.09,2025-01-27 04:44:08,2,National,50,47.0,low,,2025-01-27T04:00Z,55.9521,-3.1965
+Manchester,3.29,overcast clouds,88,2.57,2025-01-27 04:44:10,3,National,50,47.0,low,,2025-01-27T04:00Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,light rain,100,2.06,2025-01-27 04:41:38,4,National,50,47.0,low,,2025-01-27T04:00Z,54.9733,-1.614
+Sheffield,3.29,overcast clouds,92,10.71,2025-01-27 04:44:13,5,National,50,47.0,low,,2025-01-27T04:00Z,53.383,-1.4659
+Liverpool,3.36,overcast clouds,92,3.6,2025-01-27 04:40:37,6,National,50,47.0,low,,2025-01-27T04:00Z,53.4106,-2.9779
+Cardiff,6.57,light rain,80,8.75,2025-01-27 04:44:17,7,National,50,47.0,low,,2025-01-27T04:00Z,51.48,-3.18
+Birmingham,7.97,light rain,96,2.06,2025-01-27 04:40:35,8,National,50,47.0,low,,2025-01-27T04:00Z,52.4814,-1.8998
+Nottingham,3.53,clear sky,90,5.66,2025-01-27 04:44:21,9,National,50,47.0,low,,2025-01-27T04:00Z,52.9536,-1.1505
+Cambridge,-7.09,clear sky,79,5.66,2025-01-27 04:34:08,10,National,50,47.0,low,,2025-01-27T04:00Z,52.2,0.1167
+Bristol,-3.99,clear sky,68,1.54,2025-01-27 04:44:24,11,National,50,47.0,low,,2025-01-27T04:00Z,51.4552,-2.5967
+Southampton,6.96,broken clouds,93,3.13,2025-01-27 04:44:26,12,National,50,47.0,low,,2025-01-27T04:00Z,50.904,-1.4043
+London,7.66,broken clouds,86,6.17,2025-01-27 04:40:38,13,National,50,47.0,low,,2025-01-27T04:00Z,51.5085,-0.1257
+Brighton,8.27,broken clouds,86,1.34,2025-01-27 04:44:29,14,National,50,47.0,low,,2025-01-27T04:00Z,50.8284,-0.1395
+Leeds,3.18,overcast clouds,93,7.16,2025-01-27 04:44:31,15,National,50,47.0,low,,2025-01-27T04:00Z,53.7964,-1.5477
+Glasgow,3.73,moderate rain,93,2.57,2025-01-27 04:44:33,16,National,50,47.0,low,,2025-01-27T04:00Z,55.8652,-4.2576
+Swansea,4.63,broken clouds,91,4.92,2025-01-27 04:44:35,17,National,50,47.0,low,,2025-01-27T04:00Z,51.6208,-3.9432
+Inverness,2.04,overcast clouds,93,0.45,2025-01-27 04:50:17,57.4791,-4.224,1,National,50,47,low,2025-01-27T04:00Z,
+Edinburgh,4.02,light rain,91,3.09,2025-01-27 04:48:18,55.9521,-3.1965,2,National,50,47,low,2025-01-27T04:00Z,
+Manchester,3.29,overcast clouds,88,2.57,2025-01-27 04:44:10,53.4809,-2.2374,3,National,50,47,low,2025-01-27T04:00Z,
+Newcastle upon Tyne,5.12,light rain,100,2.06,2025-01-27 04:51:08,54.9733,-1.614,4,National,50,47,low,2025-01-27T04:00Z,
+Sheffield,3.29,overcast clouds,92,10.71,2025-01-27 04:51:10,53.383,-1.4659,5,National,50,47,low,2025-01-27T04:00Z,
+Liverpool,3.76,overcast clouds,90,3.6,2025-01-27 04:46:16,53.4106,-2.9779,6,National,50,47,low,2025-01-27T04:00Z,
+Cardiff,6.57,light rain,79,8.75,2025-01-27 04:45:34,51.48,-3.18,7,National,50,47,low,2025-01-27T04:00Z,
+Birmingham,7.97,light rain,96,2.06,2025-01-27 04:40:35,52.4814,-1.8998,8,National,50,47,low,2025-01-27T04:00Z,
+Nottingham,3.45,clear sky,90,5.66,2025-01-27 04:49:45,52.9536,-1.1505,9,National,50,47,low,2025-01-27T04:00Z,
+Cambridge,-7.09,clear sky,79,5.66,2025-01-27 04:47:04,52.2,0.1167,10,National,50,47,low,2025-01-27T04:00Z,
+Bristol,-3.99,clear sky,68,1.54,2025-01-27 04:44:24,51.4552,-2.5967,11,National,50,47,low,2025-01-27T04:00Z,
+Southampton,6.96,broken clouds,93,3.13,2025-01-27 04:44:26,50.904,-1.4043,12,National,50,47,low,2025-01-27T04:00Z,
+London,7.66,broken clouds,86,6.17,2025-01-27 04:40:38,51.5085,-0.1257,13,National,50,47,low,2025-01-27T04:00Z,
+Brighton,8.27,broken clouds,86,1.34,2025-01-27 04:44:29,50.8284,-0.1395,14,National,50,47,low,2025-01-27T04:00Z,
+Leeds,3.18,overcast clouds,93,7.16,2025-01-27 04:44:31,53.7964,-1.5477,15,National,50,47,low,2025-01-27T04:00Z,
+Glasgow,3.73,moderate rain,93,2.57,2025-01-27 04:44:33,55.8652,-4.2576,16,National,50,47,low,2025-01-27T04:00Z,
+Swansea,4.63,broken clouds,91,4.92,2025-01-27 04:44:35,51.6208,-3.9432,17,National,50,47,low,2025-01-27T04:00Z,
+Inverness,2.04,overcast clouds,93,0.45,2025-01-27 05:00:01,1,National,50,45,low,,2025-01-27T04:30Z,57.4791,-4.224
+Edinburgh,4.02,light rain,90,3.09,2025-01-27 04:55:09,2,National,50,45,low,,2025-01-27T04:30Z,55.9521,-3.1965
+Manchester,3.64,overcast clouds,89,2.57,2025-01-27 05:00:06,3,National,50,45,low,,2025-01-27T04:30Z,53.4809,-2.2374
+Newcastle upon Tyne,5.12,moderate rain,100,2.06,2025-01-27 05:00:08,4,National,50,45,low,,2025-01-27T04:30Z,54.9733,-1.614
+Sheffield,3.26,overcast clouds,92,0.45,2025-01-27 05:00:10,5,National,50,45,low,,2025-01-27T04:30Z,53.383,-1.4659
+Liverpool,3.6,overcast clouds,90,3.6,2025-01-27 04:55:18,6,National,50,45,low,,2025-01-27T04:30Z,53.4106,-2.9779
+Cardiff,6.62,moderate rain,80,8.75,2025-01-27 05:00:13,7,National,50,45,low,,2025-01-27T04:30Z,51.48,-3.18
+Birmingham,8.13,light rain,96,2.06,2025-01-27 04:55:18,8,National,50,45,low,,2025-01-27T04:30Z,52.4814,-1.8998
+Nottingham,3.96,clear sky,91,5.66,2025-01-27 04:57:57,9,National,50,45,low,,2025-01-27T04:30Z,52.9536,-1.1505
+Cambridge,-7.09,clear sky,79,5.66,2025-01-27 04:59:38,10,National,50,45,low,,2025-01-27T04:30Z,52.2,0.1167
+Bristol,-4.5,overcast clouds,71,0.89,2025-01-27 05:00:19,11,National,50,45,low,,2025-01-27T04:30Z,51.4552,-2.5967
+Southampton,7.19,broken clouds,93,3.13,2025-01-27 05:00:20,12,National,50,45,low,,2025-01-27T04:30Z,50.904,-1.4043
+London,7.66,broken clouds,85,6.17,2025-01-27 04:55:58,13,National,50,45,low,,2025-01-27T04:30Z,51.5085,-0.1257
+Brighton,8.27,broken clouds,86,1.79,2025-01-27 04:58:09,14,National,50,45,low,,2025-01-27T04:30Z,50.8284,-0.1395
+Leeds,3.18,overcast clouds,93,7.16,2025-01-27 05:00:24,15,National,50,45,low,,2025-01-27T04:30Z,53.7964,-1.5477
+Glasgow,3.96,moderate rain,93,2.68,2025-01-27 04:59:37,16,National,50,45,low,,2025-01-27T04:30Z,55.8652,-4.2576
+Swansea,5.51,broken clouds,93,0.89,2025-01-27 05:00:27,17,National,50,45,low,,2025-01-27T04:30Z,51.6208,-3.9432
+Inverness,4.91,broken clouds,93,3.09,2025-01-28 04:44:16,1,National,48,44,low,,2025-01-28T04:00Z,57.4791,-4.224
+Edinburgh,4.74,overcast clouds,91,4.63,2025-01-28 04:44:18,2,National,48,44,low,,2025-01-28T04:00Z,55.9521,-3.1965
+Manchester,7.66,broken clouds,82,2.57,2025-01-28 04:44:20,3,National,48,44,low,,2025-01-28T04:00Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,light rain,93,1.03,2025-01-28 04:44:21,4,National,48,44,low,,2025-01-28T04:00Z,54.9733,-1.614
+Sheffield,6.62,overcast clouds,91,0.45,2025-01-28 04:44:22,5,National,48,44,low,,2025-01-28T04:00Z,53.383,-1.4659
+Liverpool,6.71,broken clouds,91,4.12,2025-01-28 04:40:35,6,National,48,44,low,,2025-01-28T04:00Z,53.4106,-2.9779
+Cardiff,8.38,light rain,92,5.66,2025-01-28 04:44:25,7,National,48,44,low,,2025-01-28T04:00Z,51.48,-3.18
+Birmingham,1.57,mist,96,0.0,2025-01-28 04:39:47,8,National,48,44,low,,2025-01-28T04:00Z,52.4814,-1.8998
+Nottingham,7.27,broken clouds,88,7.2,2025-01-28 04:44:28,9,National,48,44,low,,2025-01-28T04:00Z,52.9536,-1.1505
+Cambridge,-1.84,snow,91,9.26,2025-01-28 04:40:46,10,National,48,44,low,,2025-01-28T04:00Z,52.2,0.1167
+Bristol,1.88,clear sky,65,6.17,2025-01-28 04:44:31,11,National,48,44,low,,2025-01-28T04:00Z,51.4552,-2.5967
+Southampton,8.82,overcast clouds,95,5.36,2025-01-28 04:44:33,12,National,48,44,low,,2025-01-28T04:00Z,50.904,-1.4043
+London,8.41,light rain,88,6.69,2025-01-28 04:35:08,13,National,48,44,low,,2025-01-28T04:00Z,51.5085,-0.1257
+Brighton,8.38,overcast clouds,91,2.24,2025-01-28 04:44:36,14,National,48,44,low,,2025-01-28T04:00Z,50.8284,-0.1395
+Leeds,5.95,overcast clouds,93,0.45,2025-01-28 04:44:39,15,National,48,44,low,,2025-01-28T04:00Z,53.7964,-1.5477
+Glasgow,4.79,overcast clouds,91,3.6,2025-01-28 04:44:41,16,National,48,44,low,,2025-01-28T04:00Z,55.8652,-4.2576
+Swansea,7.54,light rain,93,2.24,2025-01-28 04:44:42,17,National,48,44,low,,2025-01-28T04:00Z,51.6208,-3.9432
+Inverness,4.91,broken clouds,90,2.57,2025-01-28 05:44:29,1,National,49,48,low,,2025-01-28T05:00Z,57.4791,-4.224
+Edinburgh,4.74,broken clouds,91,5.14,2025-01-28 05:33:39,2,National,49,48,low,,2025-01-28T05:00Z,55.9521,-3.1965
+Manchester,7.41,few clouds,84,2.57,2025-01-28 05:39:19,3,National,49,48,low,,2025-01-28T05:00Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,light intensity drizzle,100,1.03,2025-01-28 05:44:34,4,National,49,48,low,,2025-01-28T05:00Z,54.9733,-1.614
+Sheffield,6.62,overcast clouds,91,3.05,2025-01-28 05:44:35,5,National,49,48,low,,2025-01-28T05:00Z,53.383,-1.4659
+Liverpool,6.83,overcast clouds,90,3.6,2025-01-28 05:42:04,6,National,49,48,low,,2025-01-28T05:00Z,53.4106,-2.9779
+Cardiff,8.38,broken clouds,94,7.2,2025-01-28 05:43:20,7,National,49,48,low,,2025-01-28T05:00Z,51.48,-3.18
+Birmingham,0.8,mist,96,0.0,2025-01-28 05:43:05,8,National,49,48,low,,2025-01-28T05:00Z,52.4814,-1.8998
+Nottingham,7.24,broken clouds,88,6.17,2025-01-28 05:44:40,9,National,49,48,low,,2025-01-28T05:00Z,52.9536,-1.1505
+Cambridge,-1.11,snow,92,9.26,2025-01-28 05:43:20,10,National,49,48,low,,2025-01-28T05:00Z,52.2,0.1167
+Bristol,2.51,clear sky,66,3.6,2025-01-28 05:44:07,11,National,49,48,low,,2025-01-28T05:00Z,51.4552,-2.5967
+Southampton,9.14,moderate rain,94,4.02,2025-01-28 05:41:08,12,National,49,48,low,,2025-01-28T05:00Z,50.904,-1.4043
+London,8.39,overcast clouds,89,5.66,2025-01-28 05:40:53,13,National,49,48,low,,2025-01-28T05:00Z,51.5085,-0.1257
+Brighton,8.7,overcast clouds,90,2.24,2025-01-28 05:44:47,14,National,49,48,low,,2025-01-28T05:00Z,50.8284,-0.1395
+Leeds,6.01,light rain,96,2.57,2025-01-28 05:44:48,15,National,49,48,low,,2025-01-28T05:00Z,53.7964,-1.5477
+Glasgow,4.72,overcast clouds,90,2.24,2025-01-28 05:44:50,16,National,49,48,low,,2025-01-28T05:00Z,55.8652,-4.2576
+Swansea,7.49,overcast clouds,94,2.24,2025-01-28 05:44:51,17,National,49,48,low,,2025-01-28T05:00Z,51.6208,-3.9432
+Inverness,4.91,overcast clouds,93,1.03,2025-01-28 06:20:50,1,National,57,51,low,,2025-01-28T05:30Z,57.4791,-4.224
+Edinburgh,4.74,overcast clouds,91,4.12,2025-01-28 06:20:51,2,National,57,51,low,,2025-01-28T05:30Z,55.9521,-3.1965
+Manchester,7.37,broken clouds,86,2.06,2025-01-28 06:20:52,3,National,57,51,low,,2025-01-28T05:30Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,light intensity drizzle,100,1.03,2025-01-28 06:18:37,4,National,57,51,low,,2025-01-28T05:30Z,54.9733,-1.614
+Sheffield,7.15,overcast clouds,91,2.55,2025-01-28 06:17:02,5,National,57,51,low,,2025-01-28T05:30Z,53.383,-1.4659
+Liverpool,6.63,broken clouds,91,3.09,2025-01-28 06:20:58,6,National,57,51,low,,2025-01-28T05:30Z,53.4106,-2.9779
+Cardiff,8.17,overcast clouds,94,8.23,2025-01-28 06:20:59,7,National,57,51,low,,2025-01-28T05:30Z,51.48,-3.18
+Birmingham,1.42,mist,97,0.0,2025-01-28 06:15:05,8,National,57,51,low,,2025-01-28T05:30Z,52.4814,-1.8998
+Nottingham,7.23,moderate rain,87,5.14,2025-01-28 06:21:02,9,National,57,51,low,,2025-01-28T05:30Z,52.9536,-1.1505
+Cambridge,-2.79,snow,89,8.75,2025-01-28 06:21:00,10,National,57,51,low,,2025-01-28T05:30Z,52.2,0.1167
+Bristol,2.83,clear sky,64,5.14,2025-01-28 06:21:06,11,National,57,51,low,,2025-01-28T05:30Z,51.4552,-2.5967
+Southampton,9.36,broken clouds,90,8.23,2025-01-28 06:21:07,12,National,57,51,low,,2025-01-28T05:30Z,50.904,-1.4043
+London,8.62,broken clouds,89,5.66,2025-01-28 06:08:19,13,National,57,51,low,,2025-01-28T05:30Z,51.5085,-0.1257
+Brighton,8.73,overcast clouds,90,1.79,2025-01-28 06:21:10,14,National,57,51,low,,2025-01-28T05:30Z,50.8284,-0.1395
+Leeds,6.01,broken clouds,97,3.09,2025-01-28 06:21:12,15,National,57,51,low,,2025-01-28T05:30Z,53.7964,-1.5477
+Glasgow,4.72,overcast clouds,90,1.54,2025-01-28 06:21:14,16,National,57,51,low,,2025-01-28T05:30Z,55.8652,-4.2576
+Swansea,8.04,moderate rain,94,2.68,2025-01-28 06:21:15,17,National,57,51,low,,2025-01-28T05:30Z,51.6208,-3.9432
+Inverness,6.33,overcast clouds,86,4.63,2025-01-28 23:41:12,1,National,64,53,low,,2025-01-28T23:00Z,57.4791,-4.224
+Edinburgh,4.44,clear sky,86,4.12,2025-01-28 23:41:13,2,National,64,53,low,,2025-01-28T23:00Z,55.9521,-3.1965
+Manchester,6.47,broken clouds,86,4.63,2025-01-28 23:45:53,3,National,64,53,low,,2025-01-28T23:00Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,scattered clouds,87,4.12,2025-01-28 23:45:54,4,National,64,53,low,,2025-01-28T23:00Z,54.9733,-1.614
+Sheffield,5.51,broken clouds,89,6.3,2025-01-28 23:45:55,5,National,64,53,low,,2025-01-28T23:00Z,53.383,-1.4659
+Liverpool,6.66,broken clouds,89,5.14,2025-01-28 23:45:57,6,National,64,53,low,,2025-01-28T23:00Z,53.4106,-2.9779
+Cardiff,6.82,few clouds,89,6.17,2025-01-28 23:42:22,7,National,64,53,low,,2025-01-28T23:00Z,51.48,-3.18
+Birmingham,10.16,broken clouds,65,1.97,2025-01-28 23:44:15,8,National,64,53,low,,2025-01-28T23:00Z,52.4814,-1.8998
+Nottingham,5.37,broken clouds,87,6.69,2025-01-28 23:46:00,9,National,64,53,low,,2025-01-28T23:00Z,52.9536,-1.1505
+Cambridge,-4.79,light snow,86,6.17,2025-01-28 23:41:55,10,National,64,53,low,,2025-01-28T23:00Z,52.2,0.1167
+Bristol,-3.51,clear sky,36,3.6,2025-01-28 23:41:49,11,National,64,53,low,,2025-01-28T23:00Z,51.4552,-2.5967
+Southampton,6.62,overcast clouds,91,1.34,2025-01-28 23:41:12,12,National,64,53,low,,2025-01-28T23:00Z,50.904,-1.4043
+London,7.37,broken clouds,82,6.69,2025-01-28 23:41:41,13,National,64,53,low,,2025-01-28T23:00Z,51.5085,-0.1257
+Brighton,6.22,overcast clouds,88,1.79,2025-01-28 23:46:07,14,National,64,53,low,,2025-01-28T23:00Z,50.8284,-0.1395
+Leeds,4.41,broken clouds,84,3.92,2025-01-28 23:46:08,15,National,64,53,low,,2025-01-28T23:00Z,53.7964,-1.5477
+Glasgow,3.58,overcast clouds,89,3.09,2025-01-28 23:38:45,16,National,64,53,low,,2025-01-28T23:00Z,55.8652,-4.2576
+Swansea,6.76,broken clouds,90,2.68,2025-01-28 23:42:35,17,National,64,53,low,,2025-01-28T23:00Z,51.6208,-3.9432
+Inverness,6.33,moderate rain,87,4.12,2025-01-29 00:46:12,1,National,61,45,low,,2025-01-29T00:00Z,57.4791,-4.224
+Edinburgh,4.64,clear sky,86,3.6,2025-01-29 00:43:56,2,National,61,45,low,,2025-01-29T00:00Z,55.9521,-3.1965
+Manchester,6.46,broken clouds,86,4.12,2025-01-29 00:38:40,3,National,61,45,low,,2025-01-29T00:00Z,53.4809,-2.2374
+Newcastle upon Tyne,3.12,scattered clouds,93,4.63,2025-01-29 00:41:20,4,National,61,45,low,,2025-01-29T00:00Z,54.9733,-1.614
+Sheffield,6.01,scattered clouds,88,6.46,2025-01-29 00:42:53,5,National,61,45,low,,2025-01-29T00:00Z,53.383,-1.4659
+Liverpool,6.51,light rain,91,6.69,2025-01-29 00:46:20,6,National,61,45,low,,2025-01-29T00:00Z,53.4106,-2.9779
+Cardiff,6.18,overcast clouds,91,6.17,2025-01-29 00:46:21,7,National,61,45,low,,2025-01-29T00:00Z,51.48,-3.18
+Birmingham,8.73,broken clouds,72,1.92,2025-01-29 00:44:13,8,National,61,45,low,,2025-01-29T00:00Z,52.4814,-1.8998
+Nottingham,5.43,broken clouds,88,6.17,2025-01-29 00:46:24,9,National,61,45,low,,2025-01-29T00:00Z,52.9536,-1.1505
+Cambridge,-4.33,snow,94,6.17,2025-01-29 00:39:12,10,National,61,45,low,,2025-01-29T00:00Z,52.2,0.1167
+Bristol,-4.25,clear sky,40,2.57,2025-01-29 00:46:26,11,National,61,45,low,,2025-01-29T00:00Z,51.4552,-2.5967
+Southampton,6.08,broken clouds,93,0.89,2025-01-29 00:46:28,12,National,61,45,low,,2025-01-29T00:00Z,50.904,-1.4043
+London,6.73,few clouds,85,2.24,2025-01-29 00:42:20,13,National,61,45,low,,2025-01-29T00:00Z,51.5085,-0.1257
+Brighton,6.09,clear sky,89,2.68,2025-01-29 00:45:29,14,National,61,45,low,,2025-01-29T00:00Z,50.8284,-0.1395
+Leeds,4.85,clear sky,89,3.97,2025-01-29 00:46:32,15,National,61,45,low,,2025-01-29T00:00Z,53.7964,-1.5477
+Glasgow,3.91,overcast clouds,88,2.24,2025-01-29 00:43:56,16,National,61,45,low,,2025-01-29T00:00Z,55.8652,-4.2576
+Swansea,6.54,overcast clouds,92,1.34,2025-01-29 00:46:34,17,National,61,45,low,,2025-01-29T00:00Z,51.6208,-3.9432
+Inverness,6.33,overcast clouds,87,3.09,2025-01-29 01:53:43,1,National,59,43,low,,2025-01-29T01:00Z,57.4791,-4.224
+Edinburgh,4.46,clear sky,87,4.12,2025-01-29 01:55:01,2,National,59,43,low,,2025-01-29T01:00Z,55.9521,-3.1965
+Manchester,6.52,overcast clouds,88,3.09,2025-01-29 01:54:22,3,National,59,43,low,,2025-01-29T01:00Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,scattered clouds,87,5.66,2025-01-29 01:56:15,4,National,59,43,low,,2025-01-29T01:00Z,54.9733,-1.614
+Sheffield,6.11,scattered clouds,88,0.45,2025-01-29 01:56:17,5,National,59,43,low,,2025-01-29T01:00Z,53.383,-1.4659
+Liverpool,6.9,broken clouds,91,5.14,2025-01-29 01:48:19,6,National,59,43,low,,2025-01-29T01:00Z,53.4106,-2.9779
+Cardiff,5.87,scattered clouds,92,4.12,2025-01-29 01:48:19,7,National,59,43,low,,2025-01-29T01:00Z,51.48,-3.18
+Birmingham,7.49,scattered clouds,75,2.11,2025-01-29 01:53:09,8,National,59,43,low,,2025-01-29T01:00Z,52.4814,-1.8998
+Nottingham,5.6,scattered clouds,88,7.72,2025-01-29 01:56:23,9,National,59,43,low,,2025-01-29T01:00Z,52.9536,-1.1505
+Cambridge,-0.12,light snow,86,8.75,2025-01-29 01:53:02,10,National,59,43,low,,2025-01-29T01:00Z,52.2,0.1167
+Bristol,-4.73,clear sky,46,1.54,2025-01-29 01:48:19,11,National,59,43,low,,2025-01-29T01:00Z,51.4552,-2.5967
+Southampton,5.53,broken clouds,95,0.89,2025-01-29 01:55:35,12,National,59,43,low,,2025-01-29T01:00Z,50.904,-1.4043
+London,6.25,scattered clouds,86,5.66,2025-01-29 01:47:08,13,National,59,43,low,,2025-01-29T01:00Z,51.5085,-0.1257
+Brighton,5.41,few clouds,89,2.24,2025-01-29 01:56:30,14,National,59,43,low,,2025-01-29T01:00Z,50.8284,-0.1395
+Leeds,4.61,few clouds,88,4.64,2025-01-29 01:48:19,15,National,59,43,low,,2025-01-29T01:00Z,53.7964,-1.5477
+Glasgow,4.77,overcast clouds,82,4.12,2025-01-29 01:48:18,16,National,59,43,low,,2025-01-29T01:00Z,55.8652,-4.2576
+Swansea,6.54,overcast clouds,91,1.79,2025-01-29 01:56:35,17,National,59,43,low,,2025-01-29T01:00Z,51.6208,-3.9432
+Inverness,6.33,broken clouds,83,3.6,2025-01-29 04:26:29,1,National,49,37,low,,2025-01-29T03:30Z,57.4791,-4.224
+Edinburgh,4.53,light rain,84,4.12,2025-01-29 04:24:09,2,National,49,37,low,,2025-01-29T03:30Z,55.9521,-3.1965
+Manchester,6.26,broken clouds,89,4.12,2025-01-29 04:26:32,3,National,49,37,low,,2025-01-29T03:30Z,53.4809,-2.2374
+Newcastle upon Tyne,3.12,clear sky,93,5.14,2025-01-29 04:26:33,4,National,49,37,low,,2025-01-29T03:30Z,54.9733,-1.614
+Sheffield,6.01,broken clouds,86,0.45,2025-01-29 04:26:35,5,National,49,37,low,,2025-01-29T03:30Z,53.383,-1.4659
+Liverpool,5.87,broken clouds,92,4.63,2025-01-29 04:26:30,6,National,49,37,low,,2025-01-29T03:30Z,53.4106,-2.9779
+Cardiff,6.19,few clouds,93,3.6,2025-01-29 04:26:38,7,National,49,37,low,,2025-01-29T03:30Z,51.48,-3.18
+Birmingham,5.84,scattered clouds,80,2.51,2025-01-29 04:21:49,8,National,49,37,low,,2025-01-29T03:30Z,52.4814,-1.8998
+Nottingham,5.91,broken clouds,88,7.2,2025-01-29 04:26:41,9,National,49,37,low,,2025-01-29T03:30Z,52.9536,-1.1505
+Cambridge,1.35,light snow,80,7.72,2025-01-29 04:22:44,10,National,49,37,low,,2025-01-29T03:30Z,52.2,0.1167
+Bristol,-4.22,overcast clouds,51,0.0,2025-01-29 04:26:44,11,National,49,37,low,,2025-01-29T03:30Z,51.4552,-2.5967
+Southampton,6.05,overcast clouds,95,0.89,2025-01-29 04:26:45,12,National,49,37,low,,2025-01-29T03:30Z,50.904,-1.4043
+London,5.5,broken clouds,89,6.17,2025-01-29 04:24:48,13,National,49,37,low,,2025-01-29T03:30Z,51.5085,-0.1257
+Brighton,5.44,scattered clouds,90,1.79,2025-01-29 04:25:29,14,National,49,37,low,,2025-01-29T03:30Z,50.8284,-0.1395
+Leeds,3.91,scattered clouds,92,0.89,2025-01-29 04:26:49,15,National,49,37,low,,2025-01-29T03:30Z,53.7964,-1.5477
+Glasgow,4.55,overcast clouds,79,4.12,2025-01-29 04:26:51,16,National,49,37,low,,2025-01-29T03:30Z,55.8652,-4.2576
+Swansea,6.19,overcast clouds,93,0.89,2025-01-29 04:26:52,17,National,49,37,low,,2025-01-29T03:30Z,51.6208,-3.9432
+Inverness,5.26,overcast clouds,86,3.09,2025-01-29 06:00:09,1,National,71,65,low,,2025-01-29T05:30Z,57.4791,-4.224
+Edinburgh,4.4,clear sky,83,5.14,2025-01-29 05:57:03,2,National,71,65,low,,2025-01-29T05:30Z,55.9521,-3.1965
+Manchester,6.11,overcast clouds,89,4.12,2025-01-29 05:57:01,3,National,71,65,low,,2025-01-29T05:30Z,53.4809,-2.2374
+Newcastle upon Tyne,3.12,few clouds,93,5.66,2025-01-29 05:56:21,4,National,71,65,low,,2025-01-29T05:30Z,54.9733,-1.614
+Sheffield,5.54,broken clouds,87,5.92,2025-01-29 05:59:39,5,National,71,65,low,,2025-01-29T05:30Z,53.383,-1.4659
+Liverpool,5.4,broken clouds,92,5.14,2025-01-29 05:57:26,6,National,71,65,low,,2025-01-29T05:30Z,53.4106,-2.9779
+Cardiff,5.05,scattered clouds,97,2.57,2025-01-29 05:55:47,7,National,71,65,low,,2025-01-29T05:30Z,51.48,-3.18
+Birmingham,4.93,broken clouds,83,2.36,2025-01-29 05:59:38,8,National,71,65,low,,2025-01-29T05:30Z,52.4814,-1.8998
+Nottingham,4.86,few clouds,88,6.17,2025-01-29 06:00:21,9,National,71,65,low,,2025-01-29T05:30Z,52.9536,-1.1505
+Cambridge,2.09,overcast clouds,77,8.75,2025-01-29 05:58:43,10,National,71,65,low,,2025-01-29T05:30Z,52.2,0.1167
+Bristol,-3.51,light snow,51,0.89,2025-01-29 06:00:24,11,National,71,65,low,,2025-01-29T05:30Z,51.4552,-2.5967
+Southampton,5.23,overcast clouds,95,0.45,2025-01-29 06:00:25,12,National,71,65,low,,2025-01-29T05:30Z,50.904,-1.4043
+London,5.01,overcast clouds,90,4.12,2025-01-29 05:54:02,13,National,71,65,low,,2025-01-29T05:30Z,51.5085,-0.1257
+Brighton,5.29,broken clouds,91,1.34,2025-01-29 06:00:28,14,National,71,65,low,,2025-01-29T05:30Z,50.8284,-0.1395
+Leeds,4.53,few clouds,88,7.2,2025-01-29 06:00:30,15,National,71,65,low,,2025-01-29T05:30Z,53.7964,-1.5477
+Glasgow,3.63,overcast clouds,81,2.06,2025-01-29 05:59:38,16,National,71,65,low,,2025-01-29T05:30Z,55.8652,-4.2576
+Swansea,5.23,overcast clouds,94,1.74,2025-01-29 06:00:33,17,National,71,65,low,,2025-01-29T05:30Z,51.6208,-3.9432
+Inverness,5.26,light rain,86,3.6,2025-01-29 07:00:01,1,National,97,90,low,,2025-01-29T06:30Z,57.4791,-4.224
+Edinburgh,4.49,light rain,82,6.17,2025-01-29 06:57:02,2,National,97,90,low,,2025-01-29T06:30Z,55.9521,-3.1965
+Manchester,5.71,broken clouds,87,3.09,2025-01-29 07:00:05,3,National,97,90,low,,2025-01-29T06:30Z,53.4809,-2.2374
+Newcastle upon Tyne,3.12,few clouds,93,5.14,2025-01-29 07:00:06,4,National,97,90,low,,2025-01-29T06:30Z,54.9733,-1.614
+Sheffield,5.51,clear sky,88,0.45,2025-01-29 06:57:02,5,National,97,90,low,,2025-01-29T06:30Z,53.383,-1.4659
+Liverpool,4.89,scattered clouds,93,4.63,2025-01-29 06:59:38,6,National,97,90,low,,2025-01-29T06:30Z,53.4106,-2.9779
+Cardiff,4.17,broken clouds,92,1.54,2025-01-29 07:00:11,7,National,97,90,low,,2025-01-29T06:30Z,51.48,-3.18
+Birmingham,5.53,few clouds,81,2.06,2025-01-29 06:55:26,8,National,97,90,low,,2025-01-29T06:30Z,52.4814,-1.8998
+Nottingham,4.6,few clouds,90,7.72,2025-01-29 06:59:38,9,National,97,90,low,,2025-01-29T06:30Z,52.9536,-1.1505
+Cambridge,1.68,overcast clouds,83,6.17,2025-01-29 06:57:39,10,National,97,90,low,,2025-01-29T06:30Z,52.2,0.1167
+Bristol,-3.46,light snow,52,4.63,2025-01-29 07:00:16,11,National,97,90,low,,2025-01-29T06:30Z,51.4552,-2.5967
+Southampton,5.02,clear sky,93,2.06,2025-01-29 06:59:14,12,National,97,90,low,,2025-01-29T06:30Z,50.904,-1.4043
+London,5.14,broken clouds,91,4.63,2025-01-29 06:53:02,13,National,97,90,low,,2025-01-29T06:30Z,51.5085,-0.1257
+Brighton,5.58,overcast clouds,92,0.89,2025-01-29 06:55:29,14,National,97,90,low,,2025-01-29T06:30Z,50.8284,-0.1395
+Leeds,4.12,few clouds,93,7.2,2025-01-29 07:00:22,15,National,97,90,low,,2025-01-29T06:30Z,53.7964,-1.5477
+Glasgow,2.96,broken clouds,84,4.12,2025-01-29 06:56:23,16,National,97,90,low,,2025-01-29T06:30Z,55.8652,-4.2576
+Swansea,5.43,overcast clouds,95,2.41,2025-01-29 07:00:25,17,National,97,90,low,,2025-01-29T06:30Z,51.6208,-3.9432
+Inverness,5.26,scattered clouds,83,4.63,2025-01-29 08:02:50,1,National,132,129,moderate,,2025-01-29T07:30Z,57.4791,-4.224
+Edinburgh,4.08,moderate rain,81,4.63,2025-01-29 08:00:03,2,National,132,129,moderate,,2025-01-29T07:30Z,55.9521,-3.1965
+Manchester,5.21,broken clouds,89,1.54,2025-01-29 07:59:41,3,National,132,129,moderate,,2025-01-29T07:30Z,53.4809,-2.2374
+Newcastle upon Tyne,3.12,few clouds,87,6.69,2025-01-29 08:03:00,4,National,132,129,moderate,,2025-01-29T07:30Z,54.9733,-1.614
+Sheffield,4.92,clear sky,87,5.69,2025-01-29 08:03:41,5,National,132,129,moderate,,2025-01-29T07:30Z,53.383,-1.4659
+Liverpool,4.56,scattered clouds,94,3.6,2025-01-29 08:00:09,6,National,132,129,moderate,,2025-01-29T07:30Z,53.4106,-2.9779
+Cardiff,4.26,overcast clouds,92,2.06,2025-01-29 08:02:26,7,National,132,129,moderate,,2025-01-29T07:30Z,51.48,-3.18
+Birmingham,4.13,overcast clouds,88,2.06,2025-01-29 08:00:27,8,National,132,129,moderate,,2025-01-29T07:30Z,52.4814,-1.8998
+Nottingham,4.27,few clouds,90,6.69,2025-01-29 07:59:40,9,National,132,129,moderate,,2025-01-29T07:30Z,52.9536,-1.1505
+Cambridge,2.09,overcast clouds,81,6.17,2025-01-29 08:01:20,10,National,132,129,moderate,,2025-01-29T07:30Z,52.2,0.1167
+Bristol,-1.22,overcast clouds,70,4.32,2025-01-29 07:58:52,11,National,132,129,moderate,,2025-01-29T07:30Z,51.4552,-2.5967
+Southampton,3.93,clear sky,98,1.03,2025-01-29 08:00:01,12,National,132,129,moderate,,2025-01-29T07:30Z,50.904,-1.4043
+London,4.89,broken clouds,91,5.14,2025-01-29 07:56:37,13,National,132,129,moderate,,2025-01-29T07:30Z,51.5085,-0.1257
+Brighton,6.01,overcast clouds,92,0.89,2025-01-29 08:03:53,14,National,132,129,moderate,,2025-01-29T07:30Z,50.8284,-0.1395
+Leeds,3.85,few clouds,86,3.09,2025-01-29 08:00:22,15,National,132,129,moderate,,2025-01-29T07:30Z,53.7964,-1.5477
+Glasgow,3.35,broken clouds,81,3.09,2025-01-29 07:59:39,16,National,132,129,moderate,,2025-01-29T07:30Z,55.8652,-4.2576
+Swansea,5.42,overcast clouds,95,3.48,2025-01-29 08:03:57,17,National,132,129,moderate,,2025-01-29T07:30Z,51.6208,-3.9432
+Inverness,4.91,broken clouds,83,4.63,2025-01-29 09:00:02,1,National,145,144,moderate,,2025-01-29T08:30Z,57.4791,-4.224
+Edinburgh,3.97,moderate rain,81,4.63,2025-01-29 09:00:03,2,National,145,144,moderate,,2025-01-29T08:30Z,55.9521,-3.1965
+Manchester,5.23,scattered clouds,87,0.45,2025-01-29 09:00:05,3,National,145,144,moderate,,2025-01-29T08:30Z,53.4809,-2.2374
+Newcastle upon Tyne,3.12,few clouds,87,5.66,2025-01-29 09:00:06,4,National,145,144,moderate,,2025-01-29T08:30Z,54.9733,-1.614
+Sheffield,5.51,clear sky,86,5.64,2025-01-29 08:58:58,5,National,145,144,moderate,,2025-01-29T08:30Z,53.383,-1.4659
+Liverpool,5.55,scattered clouds,93,3.09,2025-01-29 09:04:06,6,National,145,144,moderate,,2025-01-29T08:30Z,53.4106,-2.9779
+Cardiff,4.42,overcast clouds,93,1.54,2025-01-29 09:00:10,7,National,145,144,moderate,,2025-01-29T08:30Z,51.48,-3.18
+Birmingham,3.84,clear sky,89,0.0,2025-01-29 09:03:59,8,National,145,144,moderate,,2025-01-29T08:30Z,52.4814,-1.8998
+Nottingham,4.72,few clouds,90,6.69,2025-01-29 09:00:14,9,National,145,144,moderate,,2025-01-29T08:30Z,52.9536,-1.1505
+Cambridge,2.09,overcast clouds,79,6.17,2025-01-29 09:01:14,10,National,145,144,moderate,,2025-01-29T08:30Z,52.2,0.1167
+Bristol,-1.83,snow,64,3.09,2025-01-29 09:03:18,11,National,145,144,moderate,,2025-01-29T08:30Z,51.4552,-2.5967
+Southampton,2.97,few clouds,93,0.0,2025-01-29 09:00:17,12,National,145,144,moderate,,2025-01-29T08:30Z,50.904,-1.4043
+London,4.88,overcast clouds,92,3.09,2025-01-29 08:54:00,13,National,145,144,moderate,,2025-01-29T08:30Z,51.5085,-0.1257
+Brighton,6.54,overcast clouds,92,0.45,2025-01-29 09:01:47,14,National,145,144,moderate,,2025-01-29T08:30Z,50.8284,-0.1395
+Leeds,3.51,few clouds,86,6.69,2025-01-29 09:00:21,15,National,145,144,moderate,,2025-01-29T08:30Z,53.7964,-1.5477
+Glasgow,3.0,broken clouds,81,1.54,2025-01-29 09:00:07,16,National,145,144,moderate,,2025-01-29T08:30Z,55.8652,-4.2576
+Swansea,4.87,overcast clouds,95,3.58,2025-01-29 09:04:20,17,National,145,144,moderate,,2025-01-29T08:30Z,51.6208,-3.9432
+Inverness,5.98,scattered clouds,80,5.66,2025-01-29 12:56:50,1,National,147,133,moderate,,2025-01-29T12:00Z,57.4791,-4.224
+Edinburgh,6.33,few clouds,68,3.09,2025-01-29 12:55:38,2,National,147,133,moderate,,2025-01-29T12:00Z,55.9521,-3.1965
+Manchester,7.8,few clouds,69,6.17,2025-01-29 12:45:14,3,National,147,133,moderate,,2025-01-29T12:00Z,53.4809,-2.2374
+Newcastle upon Tyne,7.12,light rain,70,4.12,2025-01-29 12:53:23,4,National,147,133,moderate,,2025-01-29T12:00Z,54.9733,-1.614
+Sheffield,7.21,overcast clouds,74,0.89,2025-01-29 12:56:21,5,National,147,133,moderate,,2025-01-29T12:00Z,53.383,-1.4659
+Liverpool,7.47,scattered clouds,77,6.17,2025-01-29 12:56:57,6,National,147,133,moderate,,2025-01-29T12:00Z,53.4106,-2.9779
+Cardiff,7.33,overcast clouds,92,3.09,2025-01-29 12:56:59,7,National,147,133,moderate,,2025-01-29T12:00Z,51.48,-3.18
+Birmingham,5.09,overcast clouds,96,1.12,2025-01-29 12:44:44,8,National,147,133,moderate,,2025-01-29T12:00Z,52.4814,-1.8998
+Nottingham,8.76,broken clouds,69,5.14,2025-01-29 12:53:44,9,National,147,133,moderate,,2025-01-29T12:00Z,52.9536,-1.1505
+Cambridge,-1.23,overcast clouds,88,8.23,2025-01-29 12:57:03,10,National,147,133,moderate,,2025-01-29T12:00Z,52.2,0.1167
+Bristol,2.26,broken clouds,76,5.32,2025-01-29 12:57:04,11,National,147,133,moderate,,2025-01-29T12:00Z,51.4552,-2.5967
+Southampton,7.51,light rain,93,1.34,2025-01-29 12:57:05,12,National,147,133,moderate,,2025-01-29T12:00Z,50.904,-1.4043
+London,8.1,overcast clouds,83,1.03,2025-01-29 12:50:39,13,National,147,133,moderate,,2025-01-29T12:00Z,51.5085,-0.1257
+Brighton,8.31,scattered clouds,87,1.54,2025-01-29 12:55:29,14,National,147,133,moderate,,2025-01-29T12:00Z,50.8284,-0.1395
+Leeds,8.63,overcast clouds,69,3.13,2025-01-29 12:57:09,15,National,147,133,moderate,,2025-01-29T12:00Z,53.7964,-1.5477
+Glasgow,7.17,few clouds,69,4.63,2025-01-29 12:54:44,16,National,147,133,moderate,,2025-01-29T12:00Z,55.8652,-4.2576
+Swansea,7.11,overcast clouds,90,1.34,2025-01-29 12:57:11,17,National,147,133,moderate,,2025-01-29T12:00Z,51.6208,-3.9432
+Inverness,5.98,scattered clouds,80,5.66,2025-01-29 12:56:50,1,National,147,133,moderate,,2025-01-29T12:00Z,57.4791,-4.224
+Edinburgh,6.33,few clouds,68,3.09,2025-01-29 12:55:38,2,National,147,133,moderate,,2025-01-29T12:00Z,55.9521,-3.1965
+Manchester,7.93,few clouds,69,6.17,2025-01-29 12:55:57,3,National,147,133,moderate,,2025-01-29T12:00Z,53.4809,-2.2374
+Newcastle upon Tyne,7.12,light rain,70,4.12,2025-01-29 12:53:23,4,National,147,133,moderate,,2025-01-29T12:00Z,54.9733,-1.614
+Sheffield,7.21,overcast clouds,74,0.89,2025-01-29 12:56:21,5,National,147,133,moderate,,2025-01-29T12:00Z,53.383,-1.4659
+Liverpool,7.47,scattered clouds,77,6.17,2025-01-29 12:56:57,6,National,147,133,moderate,,2025-01-29T12:00Z,53.4106,-2.9779
+Cardiff,7.33,overcast clouds,92,3.09,2025-01-29 12:56:59,7,National,147,133,moderate,,2025-01-29T12:00Z,51.48,-3.18
+Birmingham,5.09,overcast clouds,96,1.12,2025-01-29 12:44:44,8,National,147,133,moderate,,2025-01-29T12:00Z,52.4814,-1.8998
+Nottingham,8.76,broken clouds,69,5.14,2025-01-29 12:53:44,9,National,147,133,moderate,,2025-01-29T12:00Z,52.9536,-1.1505
+Cambridge,-1.23,overcast clouds,88,8.23,2025-01-29 12:57:03,10,National,147,133,moderate,,2025-01-29T12:00Z,52.2,0.1167
+Bristol,2.26,broken clouds,76,5.32,2025-01-29 12:57:04,11,National,147,133,moderate,,2025-01-29T12:00Z,51.4552,-2.5967
+Southampton,7.51,light rain,93,1.34,2025-01-29 12:57:05,12,National,147,133,moderate,,2025-01-29T12:00Z,50.904,-1.4043
+London,8.1,overcast clouds,83,1.03,2025-01-29 12:50:39,13,National,147,133,moderate,,2025-01-29T12:00Z,51.5085,-0.1257
+Brighton,8.31,scattered clouds,87,1.54,2025-01-29 12:55:29,14,National,147,133,moderate,,2025-01-29T12:00Z,50.8284,-0.1395
+Leeds,8.63,overcast clouds,69,3.13,2025-01-29 12:57:09,15,National,147,133,moderate,,2025-01-29T12:00Z,53.7964,-1.5477
+Glasgow,7.17,few clouds,69,4.63,2025-01-29 12:54:44,16,National,147,133,moderate,,2025-01-29T12:00Z,55.8652,-4.2576
+Swansea,7.11,overcast clouds,90,1.34,2025-01-29 12:57:11,17,National,147,133,moderate,,2025-01-29T12:00Z,51.6208,-3.9432
+Inverness,6.67,scattered clouds,82,4.12,2025-01-29 13:34:34,1,National,150,144,moderate,,2025-01-29T13:00Z,57.4791,-4.224
+Edinburgh,7.25,few clouds,66,4.12,2025-01-29 13:34:35,2,National,150,144,moderate,,2025-01-29T13:00Z,55.9521,-3.1965
+Manchester,7.64,few clouds,65,4.63,2025-01-29 13:22:01,3,National,150,144,moderate,,2025-01-29T13:00Z,53.4809,-2.2374
+Newcastle upon Tyne,6.12,moderate rain,75,5.14,2025-01-29 13:31:57,4,National,150,144,moderate,,2025-01-29T13:00Z,54.9733,-1.614
+Sheffield,7.24,overcast clouds,74,0.45,2025-01-29 13:34:39,5,National,150,144,moderate,,2025-01-29T13:00Z,53.383,-1.4659
+Liverpool,7.36,few clouds,74,6.69,2025-01-29 13:34:40,6,National,150,144,moderate,,2025-01-29T13:00Z,53.4106,-2.9779
+Cardiff,7.52,overcast clouds,87,3.6,2025-01-29 13:32:24,7,National,150,144,moderate,,2025-01-29T13:00Z,51.48,-3.18
+Birmingham,3.69,broken clouds,95,0.0,2025-01-29 13:26:56,8,National,150,144,moderate,,2025-01-29T13:00Z,52.4814,-1.8998
+Nottingham,9.01,overcast clouds,66,6.17,2025-01-29 13:31:31,9,National,150,144,moderate,,2025-01-29T13:00Z,52.9536,-1.1505
+Cambridge,-1.84,overcast clouds,88,6.17,2025-01-29 13:29:47,10,National,150,144,moderate,,2025-01-29T13:00Z,52.2,0.1167
+Bristol,1.99,scattered clouds,74,2.06,2025-01-29 13:34:46,11,National,150,144,moderate,,2025-01-29T13:00Z,51.4552,-2.5967
+Southampton,7.69,light rain,93,1.03,2025-01-29 13:34:48,12,National,150,144,moderate,,2025-01-29T13:00Z,50.904,-1.4043
+London,8.23,overcast clouds,82,0.45,2025-01-29 13:30:57,13,National,150,144,moderate,,2025-01-29T13:00Z,51.5085,-0.1257
+Brighton,8.29,few clouds,87,1.54,2025-01-29 13:30:29,14,National,150,144,moderate,,2025-01-29T13:00Z,50.8284,-0.1395
+Leeds,8.17,few clouds,73,6.17,2025-01-29 13:31:40,15,National,150,144,moderate,,2025-01-29T13:00Z,53.7964,-1.5477
+Glasgow,7.74,scattered clouds,67,4.63,2025-01-29 13:33:27,16,National,150,144,moderate,,2025-01-29T13:00Z,55.8652,-4.2576
+Swansea,7.67,overcast clouds,86,1.79,2025-01-29 13:34:54,17,National,150,144,moderate,,2025-01-29T13:00Z,51.6208,-3.9432
+Inverness,5.62,moderate rain,84,4.12,2025-01-29 13:53:20,1,National,154,144,moderate,,2025-01-29T13:00Z,57.4791,-4.224
+Edinburgh,7.48,few clouds,66,4.12,2025-01-29 13:45:29,2,National,154,144,moderate,,2025-01-29T13:00Z,55.9521,-3.1965
+Manchester,7.55,few clouds,65,4.12,2025-01-29 13:45:29,3,National,154,144,moderate,,2025-01-29T13:00Z,53.4809,-2.2374
+Newcastle upon Tyne,6.12,broken clouds,75,5.14,2025-01-29 13:53:25,4,National,154,144,moderate,,2025-01-29T13:00Z,54.9733,-1.614
+Sheffield,7.76,overcast clouds,74,0.45,2025-01-29 13:53:26,5,National,154,144,moderate,,2025-01-29T13:00Z,53.383,-1.4659
+Liverpool,7.36,few clouds,73,6.69,2025-01-29 13:53:27,6,National,154,144,moderate,,2025-01-29T13:00Z,53.4106,-2.9779
+Cardiff,7.52,overcast clouds,85,3.6,2025-01-29 13:53:29,7,National,154,144,moderate,,2025-01-29T13:00Z,51.48,-3.18
+Birmingham,6.7,overcast clouds,94,0.45,2025-01-29 13:45:36,8,National,154,144,moderate,,2025-01-29T13:00Z,52.4814,-1.8998
+Nottingham,8.8,broken clouds,66,4.12,2025-01-29 13:53:32,9,National,154,144,moderate,,2025-01-29T13:00Z,52.9536,-1.1505
+Cambridge,-1.91,broken clouds,84,10.29,2025-01-29 13:51:32,10,National,154,144,moderate,,2025-01-29T13:00Z,52.2,0.1167
+Bristol,2.18,scattered clouds,72,2.24,2025-01-29 13:52:14,11,National,154,144,moderate,,2025-01-29T13:00Z,51.4552,-2.5967
+Southampton,7.68,light rain,93,1.03,2025-01-29 13:53:36,12,National,154,144,moderate,,2025-01-29T13:00Z,50.904,-1.4043
+London,8.31,overcast clouds,81,0.45,2025-01-29 13:51:52,13,National,154,144,moderate,,2025-01-29T13:00Z,51.5085,-0.1257
+Brighton,8.28,few clouds,87,2.57,2025-01-29 13:53:27,14,National,154,144,moderate,,2025-01-29T13:00Z,50.8284,-0.1395
+Leeds,8.45,few clouds,72,5.14,2025-01-29 13:53:40,15,National,154,144,moderate,,2025-01-29T13:00Z,53.7964,-1.5477
+Glasgow,7.68,scattered clouds,67,4.63,2025-01-29 13:53:41,16,National,154,144,moderate,,2025-01-29T13:00Z,55.8652,-4.2576
+Swansea,8.08,overcast clouds,84,1.34,2025-01-29 13:53:43,17,National,154,144,moderate,,2025-01-29T13:00Z,51.6208,-3.9432
+Inverness,2.4,light rain,90,5.66,2025-01-30 00:31:17,1,National,81,66,low,,2025-01-30T00:00Z,57.4791,-4.224
+Edinburgh,1.68,clear sky,83,3.09,2025-01-30 00:26:52,2,National,81,66,low,,2025-01-30T00:00Z,55.9521,-3.1965
+Manchester,0.7,overcast clouds,87,0.51,2025-01-30 00:29:35,3,National,81,66,low,,2025-01-30T00:00Z,53.4809,-2.2374
+Newcastle upon Tyne,0.12,clear sky,93,3.09,2025-01-30 00:31:22,4,National,81,66,low,,2025-01-30T00:00Z,54.9733,-1.614
+Sheffield,3.84,overcast clouds,79,2.52,2025-01-30 00:27:21,5,National,81,66,low,,2025-01-30T00:00Z,53.383,-1.4659
+Liverpool,4.13,clear sky,83,4.63,2025-01-30 00:30:42,6,National,81,66,low,,2025-01-30T00:00Z,53.4106,-2.9779
+Cardiff,3.88,few clouds,84,5.66,2025-01-30 00:31:26,7,National,81,66,low,,2025-01-30T00:00Z,51.48,-3.18
+Birmingham,12.14,overcast clouds,70,0.85,2025-01-30 00:30:29,8,National,81,66,low,,2025-01-30T00:00Z,52.4814,-1.8998
+Nottingham,3.11,clear sky,82,2.57,2025-01-30 00:31:29,9,National,81,66,low,,2025-01-30T00:00Z,52.9536,-1.1505
+Cambridge,-7.59,broken clouds,78,5.14,2025-01-30 00:32:26,10,National,81,66,low,,2025-01-30T00:00Z,52.2,0.1167
+Bristol,1.41,scattered clouds,46,6.17,2025-01-30 00:31:32,11,National,81,66,low,,2025-01-30T00:00Z,51.4552,-2.5967
+Southampton,5.53,overcast clouds,88,1.34,2025-01-30 00:31:33,12,National,81,66,low,,2025-01-30T00:00Z,50.904,-1.4043
+London,6.06,broken clouds,84,3.13,2025-01-30 00:21:24,13,National,81,66,low,,2025-01-30T00:00Z,51.5085,-0.1257
+Brighton,5.47,overcast clouds,94,1.34,2025-01-30 00:31:36,14,National,81,66,low,,2025-01-30T00:00Z,50.8284,-0.1395
+Leeds,2.77,overcast clouds,75,2.43,2025-01-30 00:30:22,15,National,81,66,low,,2025-01-30T00:00Z,53.7964,-1.5477
+Glasgow,2.28,clear sky,84,1.79,2025-01-30 00:31:39,16,National,81,66,low,,2025-01-30T00:00Z,55.8652,-4.2576
+Swansea,3.83,clear sky,81,1.34,2025-01-30 00:31:40,17,National,81,66,low,,2025-01-30T00:00Z,51.6208,-3.9432
+Inverness,2.77,heavy intensity rain,92,5.14,2025-01-30 01:47:45,1,National,84,68,low,,2025-01-30T01:00Z,57.4791,-4.224
+Edinburgh,1.93,clear sky,81,1.34,2025-01-30 01:45:01,2,National,84,68,low,,2025-01-30T01:00Z,55.9521,-3.1965
+Manchester,0.04,scattered clouds,89,1.03,2025-01-30 01:42:05,3,National,84,68,low,,2025-01-30T01:00Z,53.4809,-2.2374
+Newcastle upon Tyne,0.12,clear sky,86,4.12,2025-01-30 01:47:49,4,National,84,68,low,,2025-01-30T01:00Z,54.9733,-1.614
+Sheffield,3.81,overcast clouds,78,2.38,2025-01-30 01:47:51,5,National,84,68,low,,2025-01-30T01:00Z,53.383,-1.4659
+Liverpool,4.17,clear sky,83,4.63,2025-01-30 01:43:55,6,National,84,68,low,,2025-01-30T01:00Z,53.4106,-2.9779
+Cardiff,3.86,few clouds,82,2.57,2025-01-30 01:47:54,7,National,84,68,low,,2025-01-30T01:00Z,51.48,-3.18
+Birmingham,10.09,overcast clouds,77,1.0,2025-01-30 01:45:03,8,National,84,68,low,,2025-01-30T01:00Z,52.4814,-1.8998
+Nottingham,2.53,overcast clouds,80,2.65,2025-01-30 01:47:56,9,National,84,68,low,,2025-01-30T01:00Z,52.9536,-1.1505
+Cambridge,-7.66,few clouds,79,5.14,2025-01-30 01:47:11,10,National,84,68,low,,2025-01-30T01:00Z,52.2,0.1167
+Bristol,0.17,clear sky,49,3.6,2025-01-30 01:47:59,11,National,84,68,low,,2025-01-30T01:00Z,51.4552,-2.5967
+Southampton,5.78,overcast clouds,88,1.34,2025-01-30 01:48:01,12,National,84,68,low,,2025-01-30T01:00Z,50.904,-1.4043
+London,5.89,scattered clouds,84,4.12,2025-01-30 01:45:13,13,National,84,68,low,,2025-01-30T01:00Z,51.5085,-0.1257
+Brighton,5.1,overcast clouds,91,1.79,2025-01-30 01:46:50,14,National,84,68,low,,2025-01-30T01:00Z,50.8284,-0.1395
+Leeds,2.57,broken clouds,73,3.07,2025-01-30 01:48:04,15,National,84,68,low,,2025-01-30T01:00Z,53.7964,-1.5477
+Glasgow,2.36,clear sky,81,1.54,2025-01-30 01:48:06,16,National,84,68,low,,2025-01-30T01:00Z,55.8652,-4.2576
+Swansea,3.25,clear sky,81,0.45,2025-01-30 01:48:07,17,National,84,68,low,,2025-01-30T01:00Z,51.6208,-3.9432
+Inverness,1.7,scattered clouds,94,4.12,2025-01-30 04:58:36,1,National,78,73,low,,2025-01-30T04:30Z,57.4791,-4.224
+Edinburgh,1.84,clear sky,84,4.12,2025-01-30 04:58:38,2,National,78,73,low,,2025-01-30T04:30Z,55.9521,-3.1965
+Manchester,-1.2,clear sky,88,0.51,2025-01-30 04:58:40,3,National,78,73,low,,2025-01-30T04:30Z,53.4809,-2.2374
+Newcastle upon Tyne,1.12,clear sky,80,4.63,2025-01-30 04:57:21,4,National,78,73,low,,2025-01-30T04:30Z,54.9733,-1.614
+Sheffield,3.23,scattered clouds,76,2.45,2025-01-30 04:57:02,5,National,78,73,low,,2025-01-30T04:30Z,53.383,-1.4659
+Liverpool,3.52,clear sky,85,3.09,2025-01-30 04:53:47,6,National,78,73,low,,2025-01-30T04:30Z,53.4106,-2.9779
+Cardiff,1.91,scattered clouds,85,3.09,2025-01-30 04:58:48,7,National,78,73,low,,2025-01-30T04:30Z,51.48,-3.18
+Birmingham,7.6,overcast clouds,86,0.3,2025-01-30 05:00:17,8,National,78,73,low,,2025-01-30T04:30Z,52.4814,-1.8998
+Nottingham,-0.14,broken clouds,84,2.59,2025-01-30 04:58:52,9,National,78,73,low,,2025-01-30T04:30Z,52.9536,-1.1505
+Cambridge,-6.79,broken clouds,68,5.14,2025-01-30 04:58:28,10,National,78,73,low,,2025-01-30T04:30Z,52.2,0.1167
+Bristol,-2.55,clear sky,42,6.26,2025-01-30 04:58:56,11,National,78,73,low,,2025-01-30T04:30Z,51.4552,-2.5967
+Southampton,3.18,broken clouds,91,0.89,2025-01-30 04:57:08,12,National,78,73,low,,2025-01-30T04:30Z,50.904,-1.4043
+London,3.88,overcast clouds,83,4.12,2025-01-30 04:58:11,13,National,78,73,low,,2025-01-30T04:30Z,51.5085,-0.1257
+Brighton,4.49,overcast clouds,88,0.89,2025-01-30 04:55:29,14,National,78,73,low,,2025-01-30T04:30Z,50.8284,-0.1395
+Leeds,2.14,few clouds,69,3.39,2025-01-30 04:59:04,15,National,78,73,low,,2025-01-30T04:30Z,53.7964,-1.5477
+Glasgow,2.74,clear sky,83,3.6,2025-01-30 04:59:06,16,National,78,73,low,,2025-01-30T04:30Z,55.8652,-4.2576
+Swansea,3.92,few clouds,88,1.34,2025-01-30 04:59:08,17,National,78,73,low,,2025-01-30T04:30Z,51.6208,-3.9432
+Inverness,-0.09,overcast clouds,94,0.0,2025-01-31 03:41:23,1,National,172,162,moderate,,2025-01-31T03:00Z,57.4791,-4.224
+Edinburgh,3.05,broken clouds,89,1.03,2025-01-31 03:32:01,2,National,172,162,moderate,,2025-01-31T03:00Z,55.9521,-3.1965
+Manchester,3.84,drizzle rain,89,2.57,2025-01-31 03:40:46,3,National,172,162,moderate,,2025-01-31T03:00Z,53.4809,-2.2374
+Newcastle upon Tyne,3.12,overcast clouds,87,1.03,2025-01-31 03:37:15,4,National,172,162,moderate,,2025-01-31T03:00Z,54.9733,-1.614
+Sheffield,3.32,moderate rain,90,4.93,2025-01-31 03:41:28,5,National,172,162,moderate,,2025-01-31T03:00Z,53.383,-1.4659
+Liverpool,4.28,overcast clouds,93,4.12,2025-01-31 03:30:23,6,National,172,162,moderate,,2025-01-31T03:00Z,53.4106,-2.9779
+Cardiff,6.02,moderate rain,95,4.12,2025-01-31 03:41:32,7,National,172,162,moderate,,2025-01-31T03:00Z,51.48,-3.18
+Birmingham,18.77,overcast clouds,73,6.69,2025-01-31 03:31:25,8,National,172,162,moderate,,2025-01-31T03:00Z,52.4814,-1.8998
+Nottingham,3.95,moderate rain,90,5.66,2025-01-31 03:41:34,9,National,172,162,moderate,,2025-01-31T03:00Z,52.9536,-1.1505
+Cambridge,-1.43,clear sky,83,4.12,2025-01-31 03:40:06,10,National,172,162,moderate,,2025-01-31T03:00Z,52.2,0.1167
+Bristol,-5.07,overcast clouds,62,0.45,2025-01-31 03:41:37,11,National,172,162,moderate,,2025-01-31T03:00Z,51.4552,-2.5967
+Southampton,4.44,moderate rain,97,0.45,2025-01-31 03:41:38,12,National,172,162,moderate,,2025-01-31T03:00Z,50.904,-1.4043
+London,4.04,moderate rain,87,2.06,2025-01-31 03:30:02,13,National,172,162,moderate,,2025-01-31T03:00Z,51.5085,-0.1257
+Brighton,4.6,moderate rain,90,6.01,2025-01-31 03:37:00,14,National,172,162,moderate,,2025-01-31T03:00Z,50.8284,-0.1395
+Leeds,3.68,moderate rain,89,0.45,2025-01-31 03:41:42,15,National,172,162,moderate,,2025-01-31T03:00Z,53.7964,-1.5477
+Glasgow,3.13,overcast clouds,94,2.57,2025-01-31 03:38:45,16,National,172,162,moderate,,2025-01-31T03:00Z,55.8652,-4.2576
+Swansea,8.36,overcast clouds,96,3.13,2025-01-31 03:38:34,17,National,172,162,moderate,,2025-01-31T03:00Z,51.6208,-3.9432
+Inverness,2.76,broken clouds,94,0.0,2025-01-31 20:11:22,1,National,272,281,very high,,2025-01-31T19:30Z,57.4791,-4.224
+Edinburgh,3.4,overcast clouds,94,1.03,2025-01-31 20:08:39,2,National,272,281,very high,,2025-01-31T19:30Z,55.9521,-3.1965
+Manchester,6.27,broken clouds,81,1.03,2025-01-31 20:06:01,3,National,272,281,very high,,2025-01-31T19:30Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,broken clouds,93,0.51,2025-01-31 20:11:26,4,National,272,281,very high,,2025-01-31T19:30Z,54.9733,-1.614
+Sheffield,4.46,overcast clouds,89,0.89,2025-01-31 20:09:32,5,National,272,281,very high,,2025-01-31T19:30Z,53.383,-1.4659
+Liverpool,4.28,scattered clouds,91,2.06,2025-01-31 20:11:29,6,National,272,281,very high,,2025-01-31T19:30Z,53.4106,-2.9779
+Cardiff,5.13,overcast clouds,83,0.51,2025-01-31 20:07:10,7,National,272,281,very high,,2025-01-31T19:30Z,51.48,-3.18
+Birmingham,13.04,overcast clouds,94,1.34,2025-01-31 20:10:00,8,National,272,281,very high,,2025-01-31T19:30Z,52.4814,-1.8998
+Nottingham,5.06,broken clouds,83,3.09,2025-01-31 20:07:38,9,National,272,281,very high,,2025-01-31T19:30Z,52.9536,-1.1505
+Cambridge,0.81,snow,92,2.57,2025-01-31 20:07:42,10,National,272,281,very high,,2025-01-31T19:30Z,52.2,0.1167
+Bristol,5.34,mist,86,1.79,2025-01-31 20:06:58,11,National,272,281,very high,,2025-01-31T19:30Z,51.4552,-2.5967
+Southampton,7.34,broken clouds,91,2.06,2025-01-31 20:08:13,12,National,272,281,very high,,2025-01-31T19:30Z,50.904,-1.4043
+London,6.68,overcast clouds,91,2.06,2025-01-31 20:02:44,13,National,272,281,very high,,2025-01-31T19:30Z,51.5085,-0.1257
+Brighton,5.92,broken clouds,94,2.57,2025-01-31 20:09:00,14,National,272,281,very high,,2025-01-31T19:30Z,50.8284,-0.1395
+Leeds,4.19,overcast clouds,91,1.54,2025-01-31 20:11:40,15,National,272,281,very high,,2025-01-31T19:30Z,53.7964,-1.5477
+Glasgow,4.02,few clouds,93,0.82,2025-01-31 20:11:25,16,National,272,281,very high,,2025-01-31T19:30Z,55.8652,-4.2576
+Swansea,4.53,clear sky,89,2.86,2025-01-31 20:11:43,17,National,272,281,very high,,2025-01-31T19:30Z,51.6208,-3.9432
+Inverness,1.33,fog,97,0.0,2025-01-31 21:32:33,1,National,270,274,very high,,2025-01-31T21:00Z,57.4791,-4.224
+Edinburgh,2.89,overcast clouds,89,0.51,2025-01-31 21:32:29,2,National,270,274,very high,,2025-01-31T21:00Z,55.9521,-3.1965
+Manchester,6.07,overcast clouds,82,1.54,2025-01-31 21:30:01,3,National,270,274,very high,,2025-01-31T21:00Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,broken clouds,93,1.54,2025-01-31 21:34:29,4,National,270,274,very high,,2025-01-31T21:00Z,54.9733,-1.614
+Sheffield,4.43,overcast clouds,89,0.47,2025-01-31 21:31:18,5,National,270,274,very high,,2025-01-31T21:00Z,53.383,-1.4659
+Liverpool,4.43,broken clouds,92,0.51,2025-01-31 21:24:42,6,National,270,274,very high,,2025-01-31T21:00Z,53.4106,-2.9779
+Cardiff,3.83,clear sky,87,1.54,2025-01-31 21:24:42,7,National,270,274,very high,,2025-01-31T21:00Z,51.48,-3.18
+Birmingham,14.01,broken clouds,87,4.02,2025-01-31 21:21:55,8,National,270,274,very high,,2025-01-31T21:00Z,52.4814,-1.8998
+Nottingham,4.8,broken clouds,84,1.03,2025-01-31 21:34:36,9,National,270,274,very high,,2025-01-31T21:00Z,52.9536,-1.1505
+Cambridge,0.81,moderate rain,92,3.6,2025-01-31 21:34:38,10,National,270,274,very high,,2025-01-31T21:00Z,52.2,0.1167
+Bristol,4.79,light rain,82,0.45,2025-01-31 21:24:42,11,National,270,274,very high,,2025-01-31T21:00Z,51.4552,-2.5967
+Southampton,6.99,broken clouds,93,1.54,2025-01-31 21:29:48,12,National,270,274,very high,,2025-01-31T21:00Z,50.904,-1.4043
+London,6.41,overcast clouds,92,2.06,2025-01-31 21:25:10,13,National,270,274,very high,,2025-01-31T21:00Z,51.5085,-0.1257
+Brighton,5.25,broken clouds,95,0.89,2025-01-31 21:34:43,14,National,270,274,very high,,2025-01-31T21:00Z,50.8284,-0.1395
+Leeds,4.18,overcast clouds,88,0.51,2025-01-31 21:30:29,15,National,270,274,very high,,2025-01-31T21:00Z,53.7964,-1.5477
+Glasgow,2.92,fog,96,0.51,2025-01-31 21:31:07,16,National,270,274,very high,,2025-01-31T21:00Z,55.8652,-4.2576
+Swansea,4.19,clear sky,91,0.45,2025-01-31 21:34:46,17,National,270,274,very high,,2025-01-31T21:00Z,51.6208,-3.9432
+Inverness,-0.46,fog,97,0.0,2025-01-31 22:34:48,1,National,259,267,very high,,2025-01-31T22:00Z,57.4791,-4.224
+Edinburgh,3.57,overcast clouds,89,0.51,2025-01-31 22:30:00,2,National,259,267,very high,,2025-01-31T22:00Z,55.9521,-3.1965
+Manchester,5.75,overcast clouds,84,1.03,2025-01-31 22:34:51,3,National,259,267,very high,,2025-01-31T22:00Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,broken clouds,87,0.0,2025-01-31 22:32:47,4,National,259,267,very high,,2025-01-31T22:00Z,54.9733,-1.614
+Sheffield,4.43,overcast clouds,89,0.3,2025-01-31 22:33:18,5,National,259,267,very high,,2025-01-31T22:00Z,53.383,-1.4659
+Liverpool,4.9,broken clouds,92,1.03,2025-01-31 22:30:27,6,National,259,267,very high,,2025-01-31T22:00Z,53.4106,-2.9779
+Cardiff,3.22,clear sky,89,1.54,2025-01-31 22:34:21,7,National,259,267,very high,,2025-01-31T22:00Z,51.48,-3.18
+Birmingham,13.67,clear sky,88,3.6,2025-01-31 22:32:05,8,National,259,267,very high,,2025-01-31T22:00Z,52.4814,-1.8998
+Nottingham,4.83,broken clouds,84,0.51,2025-01-31 22:31:45,9,National,259,267,very high,,2025-01-31T22:00Z,52.9536,-1.1505
+Cambridge,0.65,haze,90,2.57,2025-01-31 22:30:50,10,National,259,267,very high,,2025-01-31T22:00Z,52.2,0.1167
+Bristol,4.47,moderate rain,82,0.45,2025-01-31 22:29:36,11,National,259,267,very high,,2025-01-31T22:00Z,51.4552,-2.5967
+Southampton,6.78,broken clouds,94,0.51,2025-01-31 22:35:04,12,National,259,267,very high,,2025-01-31T22:00Z,50.904,-1.4043
+London,6.05,overcast clouds,91,3.13,2025-01-31 22:30:05,13,National,259,267,very high,,2025-01-31T22:00Z,51.5085,-0.1257
+Brighton,5.26,broken clouds,95,1.34,2025-01-31 22:35:07,14,National,259,267,very high,,2025-01-31T22:00Z,50.8284,-0.1395
+Leeds,4.19,overcast clouds,87,1.54,2025-01-31 22:35:08,15,National,259,267,very high,,2025-01-31T22:00Z,53.7964,-1.5477
+Glasgow,3.03,mist,96,1.03,2025-01-31 22:33:38,16,National,259,267,very high,,2025-01-31T22:00Z,55.8652,-4.2576
+Swansea,4.12,clear sky,93,0.45,2025-01-31 22:35:11,17,National,259,267,very high,,2025-01-31T22:00Z,51.6208,-3.9432
+Inverness,-0.44,broken clouds,94,0.51,2025-01-31 23:35:12,1,National,234,253,high,,2025-01-31T23:00Z,57.4791,-4.224
+Edinburgh,3.82,broken clouds,89,1.03,2025-01-31 23:30:22,2,National,234,253,high,,2025-01-31T23:00Z,55.9521,-3.1965
+Manchester,5.41,overcast clouds,84,0.51,2025-01-31 23:30:58,3,National,234,253,high,,2025-01-31T23:00Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,broken clouds,87,1.54,2025-01-31 23:34:00,4,National,234,253,high,,2025-01-31T23:00Z,54.9733,-1.614
+Sheffield,4.4,overcast clouds,89,0.7,2025-01-31 23:33:21,5,National,234,253,high,,2025-01-31T23:00Z,53.383,-1.4659
+Liverpool,4.75,broken clouds,92,1.03,2025-01-31 23:31:07,6,National,234,253,high,,2025-01-31T23:00Z,53.4106,-2.9779
+Cardiff,2.3,few clouds,92,2.06,2025-01-31 23:32:11,7,National,234,253,high,,2025-01-31T23:00Z,51.48,-3.18
+Birmingham,12.79,overcast clouds,92,2.17,2025-01-31 23:30:31,8,National,234,253,high,,2025-01-31T23:00Z,52.4814,-1.8998
+Nottingham,4.72,broken clouds,85,0.51,2025-01-31 23:35:23,9,National,234,253,high,,2025-01-31T23:00Z,52.9536,-1.1505
+Cambridge,-0.12,light snow,88,5.14,2025-01-31 23:35:25,10,National,234,253,high,,2025-01-31T23:00Z,52.2,0.1167
+Bristol,4.22,moderate rain,82,0.89,2025-01-31 23:35:26,11,National,234,253,high,,2025-01-31T23:00Z,51.4552,-2.5967
+Southampton,6.72,scattered clouds,94,1.99,2025-01-31 23:31:09,12,National,234,253,high,,2025-01-31T23:00Z,50.904,-1.4043
+London,5.9,overcast clouds,91,2.57,2025-01-31 23:34:02,13,National,234,253,high,,2025-01-31T23:00Z,51.5085,-0.1257
+Brighton,5.21,overcast clouds,95,0.45,2025-01-31 23:35:31,14,National,234,253,high,,2025-01-31T23:00Z,50.8284,-0.1395
+Leeds,3.78,overcast clouds,88,1.13,2025-01-31 23:35:33,15,National,234,253,high,,2025-01-31T23:00Z,53.7964,-1.5477
+Glasgow,2.33,broken clouds,90,0.73,2025-01-31 23:32:22,16,National,234,253,high,,2025-01-31T23:00Z,55.8652,-4.2576
+Swansea,3.74,clear sky,91,3.01,2025-01-31 23:35:36,17,National,234,253,high,,2025-01-31T23:00Z,51.6208,-3.9432
+Inverness,-2.05,overcast clouds,100,0.0,2025-02-01 00:35:37,1,National,206,201,high,,2025-02-01T00:00Z,57.4791,-4.224
+Edinburgh,3.91,mist,88,1.34,2025-02-01 00:30:52,2,National,206,201,high,,2025-02-01T00:00Z,55.9521,-3.1965
+Manchester,5.37,overcast clouds,84,0.51,2025-02-01 00:29:06,3,National,206,201,high,,2025-02-01T00:00Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,broken clouds,87,2.57,2025-02-01 00:35:42,4,National,206,201,high,,2025-02-01T00:00Z,54.9733,-1.614
+Sheffield,4.4,overcast clouds,88,1.6,2025-02-01 00:33:22,5,National,206,201,high,,2025-02-01T00:00Z,53.383,-1.4659
+Liverpool,5.06,overcast clouds,93,1.03,2025-02-01 00:32:59,6,National,206,201,high,,2025-02-01T00:00Z,53.4106,-2.9779
+Cardiff,1.59,clear sky,96,1.54,2025-02-01 00:32:24,7,National,206,201,high,,2025-02-01T00:00Z,51.48,-3.18
+Birmingham,12.47,broken clouds,92,3.09,2025-02-01 00:28:02,8,National,206,201,high,,2025-02-01T00:00Z,52.4814,-1.8998
+Nottingham,4.72,broken clouds,84,1.54,2025-02-01 00:35:48,9,National,206,201,high,,2025-02-01T00:00Z,52.9536,-1.1505
+Cambridge,-0.66,overcast clouds,91,6.17,2025-02-01 00:33:34,10,National,206,201,high,,2025-02-01T00:00Z,52.2,0.1167
+Bristol,4.04,mist,82,0.45,2025-02-01 00:28:43,11,National,206,201,high,,2025-02-01T00:00Z,51.4552,-2.5967
+Southampton,6.72,broken clouds,94,2.79,2025-02-01 00:30:52,12,National,206,201,high,,2025-02-01T00:00Z,50.904,-1.4043
+London,5.74,overcast clouds,90,3.09,2025-02-01 00:31:14,13,National,206,201,high,,2025-02-01T00:00Z,51.5085,-0.1257
+Brighton,4.93,overcast clouds,95,0.45,2025-02-01 00:31:00,14,National,206,201,high,,2025-02-01T00:00Z,50.8284,-0.1395
+Leeds,3.78,overcast clouds,88,1.14,2025-02-01 00:35:55,15,National,206,201,high,,2025-02-01T00:00Z,53.7964,-1.5477
+Glasgow,2.15,overcast clouds,91,0.89,2025-02-01 00:35:56,16,National,206,201,high,,2025-02-01T00:00Z,55.8652,-4.2576
+Swansea,4.32,few clouds,92,2.48,2025-02-01 00:34:27,17,National,206,201,high,,2025-02-01T00:00Z,51.6208,-3.9432
+Inverness,-0.05,overcast clouds,93,0.51,2025-02-01 01:42:52,1,National,185,182,high,,2025-02-01T01:00Z,57.4791,-4.224
+Edinburgh,3.2,mist,88,1.79,2025-02-01 01:42:18,2,National,185,182,high,,2025-02-01T01:00Z,55.9521,-3.1965
+Manchester,5.42,overcast clouds,85,1.03,2025-02-01 01:39:49,3,National,185,182,high,,2025-02-01T01:00Z,53.4809,-2.2374
+Newcastle upon Tyne,4.12,broken clouds,81,1.03,2025-02-01 01:42:57,4,National,185,182,high,,2025-02-01T01:00Z,54.9733,-1.614
+Sheffield,4.4,overcast clouds,89,1.89,2025-02-01 01:39:34,5,National,185,182,high,,2025-02-01T01:00Z,53.383,-1.4659
+Liverpool,5.05,overcast clouds,93,1.54,2025-02-01 01:42:16,6,National,185,182,high,,2025-02-01T01:00Z,53.4106,-2.9779
+Cardiff,4.27,clear sky,89,1.54,2025-02-01 01:42:12,7,National,185,182,high,,2025-02-01T01:00Z,51.48,-3.18
+Birmingham,12.82,mist,92,4.63,2025-02-01 01:41:50,8,National,185,182,high,,2025-02-01T01:00Z,52.4814,-1.8998
+Nottingham,4.72,overcast clouds,84,1.54,2025-02-01 01:43:04,9,National,185,182,high,,2025-02-01T01:00Z,52.9536,-1.1505
+Cambridge,-1.11,overcast clouds,88,6.69,2025-02-01 01:41:55,10,National,185,182,high,,2025-02-01T01:00Z,52.2,0.1167
+Bristol,4.01,light rain,83,0.89,2025-02-01 01:42:49,11,National,185,182,high,,2025-02-01T01:00Z,51.4552,-2.5967
+Southampton,6.38,broken clouds,96,3.1,2025-02-01 01:43:08,12,National,185,182,high,,2025-02-01T01:00Z,50.904,-1.4043
+London,5.36,overcast clouds,90,2.57,2025-02-01 01:41:56,13,National,185,182,high,,2025-02-01T01:00Z,51.5085,-0.1257
+Brighton,4.76,overcast clouds,94,0.45,2025-02-01 01:39:32,14,National,185,182,high,,2025-02-01T01:00Z,50.8284,-0.1395
+Leeds,3.76,overcast clouds,89,1.34,2025-02-01 01:43:12,15,National,185,182,high,,2025-02-01T01:00Z,53.7964,-1.5477
+Glasgow,1.19,overcast clouds,91,1.1,2025-02-01 01:42:17,16,National,185,182,high,,2025-02-01T01:00Z,55.8652,-4.2576
+Swansea,3.76,broken clouds,91,2.9,2025-02-01 01:43:15,17,National,185,182,high,,2025-02-01T01:00Z,51.6208,-3.9432
