@@ -28,9 +28,10 @@ jobs:
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
 
-    - name: Upload to Google Sheets
+    - name: Save credentials.json
       run: |
-        echo "${{ secrets.GSHEETS_CREDENTIALS_JSON }}" > credentials.json
+        echo "${{ secrets.GSHEET_CREDS }}" > credentials.json
+
 
 
         python <<EOF
