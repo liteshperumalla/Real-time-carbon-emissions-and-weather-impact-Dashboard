@@ -22,7 +22,7 @@ jobs:
         python updated.py
 
         # Commit and push
-        git add combined_data.csv
+        git add weather_data.csv
         git commit -m "Update weather and carbon data" || echo "No changes to commit"
         git push
       env:
