@@ -2,8 +2,8 @@ name: Weather and Carbon Data Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour (UTC)
-  workflow_dispatch:      # Allows manual triggering
+    - cron: '0 * * * *'   # Every hour (UTC)
+  workflow_dispatch:       # Manual trigger
 
 jobs:
   run-scraper:
@@ -23,7 +23,7 @@ jobs:
         pip install pandas requests
 
     - name: Run Scraper Script
-      run: python updated.py
+      run: python updated_github_actions_final.py
 
     - name: Commit and Push Combined Data
       env:
@@ -31,10 +31,10 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
-    
-        # Set authenticated remote first!
+
+        # Set remote with token auth
         git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
-    
+
         git add combined_data.csv
         git commit -m "Update weather and carbon data" || echo "No changes to commit"
         git push origin main
