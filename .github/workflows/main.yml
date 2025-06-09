@@ -2,7 +2,7 @@ name: Weather and Carbon Data Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour (UTC)
+    - cron: '0 */12 * * *'  # Every 12 hours (UTC)
   workflow_dispatch:
 
 jobs:
