@@ -32,7 +32,7 @@ jobs:
       env:
         GSHEET_CREDS: ${{ secrets.GSHEETS_CREDENTIALS_JSON }}
       run: |
-        echo "${{ secrets.GSHEET_CREDS }}" > credentials.json
+        echo "${GSHEET_CREDS}" > credentials.json
 
         python <<EOF
         import gspread
