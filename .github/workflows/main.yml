@@ -28,11 +28,10 @@ jobs:
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
 
-    - name: Save credentials.json
+    - name: Upload weather_data.csv to Google Sheets
       run: |
-        echo "${{ secrets.GSHEET_CREDS }}" > credentials.json
-
-
+        cd repo
+        echo "${{ secrets.GSHEETS_CREDENTIALS_JSON }}" > credentials.json
 
         python <<EOF
         import gspread
@@ -49,7 +48,7 @@ jobs:
         SHEET_NAME = "LiveData"
 
         # Load the latest CSV
-        df = pd.read_csv("repo/weather_data.csv")
+        df = pd.read_csv("weather_data.csv")
 
         # Open and update the worksheet
         sheet = client.open(SPREADSHEET_NAME).worksheet(SHEET_NAME)
