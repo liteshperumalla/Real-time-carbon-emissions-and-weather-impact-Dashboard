@@ -17,13 +17,44 @@ jobs:
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
 
-        # Run script
-        pip install pandas requests
+        # Run Python Script
+        pip install pandas requests gspread oauth2client
         python updated.py
 
-        # Commit and push
+        # Commit and push to GitHub
         git add weather_data.csv
         git commit -m "Update weather and carbon data" || echo "No changes to commit"
         git push
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
+
+    - name: Upload to Google Sheets
+      env:
+        GSHEET_CREDS: ${{ secrets.GSHEETS_CREDENTIALS_JSON }}
+      run: |
+        echo "${GSHEET_CREDS}" > credentials.json
+
+        python <<EOF
+        import gspread
+        import pandas as pd
+        from oauth2client.service_account import ServiceAccountCredentials
+
+        # Authenticate
+        scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+        creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
+        client = gspread.authorize(creds)
+
+        # Your Google Sheet and tab names
+        SPREADSHEET_NAME = "Weather and Carbon Dashboard"
+        SHEET_NAME = "LiveData"
+
+        # Load the latest CSV
+        df = pd.read_csv("repo/weather_data.csv")
+
+        # Open and update the worksheet
+        sheet = client.open(SPREADSHEET_NAME).worksheet(SHEET_NAME)
+        sheet.clear()
+        sheet.update([df.columns.values.tolist()] + df.values.tolist())
+
+        print("✅ Synced to Google Sheets successfully.")
+        EOF
