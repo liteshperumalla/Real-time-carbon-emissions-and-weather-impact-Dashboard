@@ -1,4 +1,4 @@
-name: Real-time-carbon-emissions-and-weather-impact-Dashboard
+name: weather scraper
 
 on:
   schedule:
