@@ -31,7 +31,10 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
+    
+        # Set authenticated remote first!
+        git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
+    
         git add combined_data.csv
         git commit -m "Update weather and carbon data" || echo "No changes to commit"
-        git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
-        git push
+        git push origin main
