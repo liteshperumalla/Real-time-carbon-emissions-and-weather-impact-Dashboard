@@ -58,9 +58,9 @@ jobs:
       env:
         GSHEETS_CREDENTIALS_JSON: ${{ secrets.GSHEETS_CREDENTIALS_JSON }}
     
-    - name: Upload to Google Sheets
+    - name: Create Google Sheets upload script
       run: |
-        python - <<'EOF'
+        cat > upload_to_sheets.py << 'EOF'
         import gspread
         import pandas as pd
         import sys
@@ -137,12 +137,20 @@ jobs:
             print(f"❌ Authentication or setup error: {str(e)}")
             sys.exit(1)
         EOF
+    
+    - name: Upload to Google Sheets
+      run: python upload_to_sheets.py
       env:
         GSHEETS_CREDENTIALS_JSON: ${{ secrets.GSHEETS_CREDENTIALS_JSON }}
     
-    - name: Clean up credentials
+    - name: Clean up credentials and temp files
       if: always()
       run: |
         if [ -f credentials.json ]; then
           rm -f credentials.json
           echo "🧹 Cleaned up credentials file"
+        fi
+        if [ -f upload_to_sheets.py ]; then
+          rm -f upload_to_sheets.py
+          echo "🧹 Cleaned up upload script"
+        fi
