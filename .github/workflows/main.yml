@@ -23,7 +23,7 @@ jobs:
         pip install pandas requests
 
     - name: Run Scraper Script
-      run: python updated_github_actions_final.py
+      run: python updated.py
 
     - name: Commit and Push Combined Data
       env:
