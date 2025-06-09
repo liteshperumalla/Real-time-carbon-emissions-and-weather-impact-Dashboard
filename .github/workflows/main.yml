@@ -25,7 +25,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install --upgrade pip
-        pip install pandas requests gspread oauth2client
+        pip install pandas requests gspread oauth2client numpy
     
     - name: Configure Git
       run: |
@@ -66,6 +66,7 @@ jobs:
         import sys
         import json
         import os
+        import numpy as np
         from oauth2client.service_account import ServiceAccountCredentials
         
         try:
@@ -99,6 +100,7 @@ jobs:
                     print("⚠️  Warning: CSV file is empty")
                     sys.exit(1)
                 print(f"📊 Loaded {len(df)} rows of data")
+                print(f"📋 Columns: {list(df.columns)}")
             except FileNotFoundError:
                 print("❌ Error: weather_data.csv not found")
                 sys.exit(1)
@@ -106,35 +108,100 @@ jobs:
                 print("❌ Error: CSV file is empty or corrupted")
                 sys.exit(1)
             
+            # Clean the data to handle non-JSON compliant values
+            print("🧹 Cleaning data for JSON compliance...")
+            
+            # Check for problematic values before cleaning
+            nan_count = df.isna().sum().sum()
+            inf_count = np.isinf(df.select_dtypes(include=[np.number])).sum().sum()
+            print(f"🔍 Found {nan_count} NaN values and {inf_count} infinite values")
+            
+            # Replace inf and -inf with None
+            df = df.replace([np.inf, -np.inf], None)
+            
+            # Replace NaN with None (which becomes null in JSON)
+            df = df.where(pd.notnull(df), None)
+            
+            # Check for any remaining problematic values
+            problematic_columns = []
+            for col in df.columns:
+                if df[col].dtype in ['float64', 'float32']:
+                    if df[col].isin([np.inf, -np.inf]).any():
+                        problematic_columns.append(col)
+            
+            if problematic_columns:
+                print(f"⚠️  Warning: Still found inf values in columns: {problematic_columns}")
+            else:
+                print("✅ Data cleaning completed - no problematic values found")
+            
             # Update Google Sheet
             try:
                 spreadsheet = client.open("Weather and Carbon Dashboard")
                 worksheet = spreadsheet.worksheet("LiveData")
+                print("📊 Connected to Google Sheet successfully")
                 
                 # Clear existing data
                 worksheet.clear()
+                print("🧹 Cleared existing data")
                 
-                # Prepare data for upload
-                data_to_upload = [df.columns.values.tolist()] + df.values.tolist()
+                # Prepare data for upload - convert to strings for safer handling
+                headers = df.columns.values.tolist()
                 
-                # Upload data in batches to avoid API limits
-                worksheet.update(data_to_upload, value_input_option='RAW')
+                # Convert DataFrame to list of lists, handling None values properly
+                data_rows = []
+                for idx, row in df.iterrows():
+                    row_data = []
+                    for value in row:
+                        if value is None or pd.isna(value):
+                            row_data.append('')  # Empty string for Google Sheets
+                        elif isinstance(value, (int, float)):
+                            if not np.isfinite(value):
+                                row_data.append('N/A')  # Handle any remaining non-finite values
+                            else:
+                                row_data.append(value)  # Keep numeric values as-is
+                        else:
+                            row_data.append(str(value))  # Convert to string for safety
+                    data_rows.append(row_data)
                 
-                print("✅ Successfully synced to Google Sheets")
-                print(f"📈 Updated {len(df)} rows with {len(df.columns)} columns")
+                data_to_upload = [headers] + data_rows
+                print(f"📤 Preparing to upload {len(data_rows)} rows with {len(headers)} columns")
+                
+                # Upload data with better error handling
+                try:
+                    worksheet.update(data_to_upload, value_input_option='USER_ENTERED')
+                    print("✅ Successfully synced to Google Sheets")
+                    print(f"📈 Updated {len(df)} rows with {len(df.columns)} columns")
+                except Exception as upload_error:
+                    # If USER_ENTERED fails, try RAW with all strings
+                    print(f"⚠️  USER_ENTERED failed: {str(upload_error)}")
+                    print("🔄 Retrying with all values as strings...")
+                    
+                    # Convert everything to strings as fallback
+                    string_data = []
+                    for row in data_to_upload:
+                        string_row = [str(item) if item is not None else '' for item in row]
+                        string_data.append(string_row)
+                    
+                    worksheet.update(string_data, value_input_option='RAW')
+                    print("✅ Successfully synced to Google Sheets (string fallback)")
+                    print(f"📈 Updated {len(df)} rows with {len(df.columns)} columns")
                 
             except gspread.SpreadsheetNotFound:
                 print("❌ Error: Spreadsheet 'Weather and Carbon Dashboard' not found")
+                print("💡 Make sure the spreadsheet exists and the service account has access")
                 sys.exit(1)
             except gspread.WorksheetNotFound:
                 print("❌ Error: Worksheet 'LiveData' not found")
+                print("💡 Make sure the worksheet 'LiveData' exists in your spreadsheet")
                 sys.exit(1)
             except Exception as e:
                 print(f"❌ Error updating Google Sheets: {str(e)}")
+                print(f"🔍 Error type: {type(e).__name__}")
                 sys.exit(1)
                 
         except Exception as e:
             print(f"❌ Authentication or setup error: {str(e)}")
+            print(f"🔍 Error type: {type(e).__name__}")
             sys.exit(1)
         EOF
     
