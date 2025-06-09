@@ -52,8 +52,11 @@ jobs:
     
     - name: Set up Google Sheets credentials
       run: |
-        echo '${{ secrets.GSHEETS_CREDENTIALS_JSON }}' > credentials.json
+        echo "$GSHEETS_CREDENTIALS_JSON" > credentials.json
         chmod 600 credentials.json
+        echo "✅ Credentials file created and permissions set"
+      env:
+        GSHEETS_CREDENTIALS_JSON: ${{ secrets.GSHEETS_CREDENTIALS_JSON }}
     
     - name: Upload to Google Sheets
       run: |
@@ -61,9 +64,25 @@ jobs:
         import gspread
         import pandas as pd
         import sys
+        import json
+        import os
         from oauth2client.service_account import ServiceAccountCredentials
         
         try:
+            # Verify credentials file exists and is valid JSON
+            if not os.path.exists("credentials.json"):
+                print("❌ Error: credentials.json file not found")
+                sys.exit(1)
+            
+            # Test JSON parsing
+            try:
+                with open("credentials.json", 'r') as f:
+                    creds_data = json.load(f)
+                print("✅ Credentials JSON loaded successfully")
+            except json.JSONDecodeError as e:
+                print(f"❌ Error: Invalid JSON in credentials file: {str(e)}")
+                sys.exit(1)
+            
             # Authenticate with Google Sheets
             scope = [
                 "https://spreadsheets.google.com/feeds",
@@ -71,6 +90,7 @@ jobs:
             ]
             creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
             client = gspread.authorize(creds)
+            print("✅ Google Sheets authentication successful")
             
             # Load and validate data
             try:
@@ -117,6 +137,8 @@ jobs:
             print(f"❌ Authentication or setup error: {str(e)}")
             sys.exit(1)
         EOF
+      env:
+        GSHEETS_CREDENTIALS_JSON: ${{ secrets.GSHEETS_CREDENTIALS_JSON }}
     
     - name: Clean up credentials
       if: always()
@@ -124,4 +146,3 @@ jobs:
         if [ -f credentials.json ]; then
           rm -f credentials.json
           echo "🧹 Cleaned up credentials file"
-        fi
