@@ -31,29 +31,31 @@ jobs:
     - name: Upload weather_data.csv to Google Sheets
       run: |
         cd repo
-        echo "${{ secrets.GSHEETS_CREDENTIALS_JSON }}" > credentials.json
-
-        python <<EOF
-        import gspread
-        import pandas as pd
-        from oauth2client.service_account import ServiceAccountCredentials
-
-        # Authenticate
-        scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-        creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
-        client = gspread.authorize(creds)
-
-        # Your Google Sheet and tab names
-        SPREADSHEET_NAME = "Weather and Carbon Dashboard"
-        SHEET_NAME = "LiveData"
-
-        # Load the latest CSV
-        df = pd.read_csv("weather_data.csv")
-
-        # Open and update the worksheet
-        sheet = client.open(SPREADSHEET_NAME).worksheet(SHEET_NAME)
-        sheet.clear()
-        sheet.update([df.columns.values.tolist()] + df.values.tolist())
-
-        print("✅ Synced to Google Sheets successfully.")
+    
+        # Save secret content to credentials.json without corrupting it
+        cat <<EOF > credentials.json
+        ${{ secrets.GSHEETS_CREDENTIALS_JSON }}
         EOF
+        
+            python <<EOF
+            import gspread
+            import pandas as pd
+            from oauth2client.service_account import ServiceAccountCredentials
+        
+            # Authenticate
+            scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+            creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
+            client = gspread.authorize(creds)
+        
+            # Open Google Sheet
+            SPREADSHEET_NAME = "Weather and Carbon Dashboard"
+            SHEET_NAME = "LiveData"
+            df = pd.read_csv("weather_data.csv")
+        
+            sheet = client.open(SPREADSHEET_NAME).worksheet(SHEET_NAME)
+            sheet.clear()
+            sheet.update([df.columns.values.tolist()] + df.values.tolist())
+        
+            print("✅ Synced to Google Sheets successfully.")
+            EOF
+
