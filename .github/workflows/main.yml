@@ -2,60 +2,126 @@ name: Weather and Carbon Data Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Every hour (UTC)
+    - cron: '0 * * * *'  # Every hour (UTC)
   workflow_dispatch:
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
-
+    
     steps:
-    - name: Checkout Repo with PAT
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GH_PAT }}
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install dependencies
       run: |
-        git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }} repo
-        cd repo
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
-
-        # Run Python Script
+        pip install --upgrade pip
         pip install pandas requests gspread oauth2client
-        python updated.py
-
-        # Commit and push to GitHub
-        git add weather_data.csv
-        git commit -m "Update weather and carbon data" || echo "No changes to commit"
-        git push
+    
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+    
+    - name: Run data scraper
+      run: python updated.py
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
-
-    - name: Upload weather_data.csv to Google Sheets
-      run: |
-        cd repo
     
-        # Save secret content to credentials.json without corrupting it
-        cat <<EOF > credentials.json
-        ${{ secrets.GSHEETS_CREDENTIALS_JSON }}
-        EOF
+    - name: Commit and push changes
+      run: |
+        if [[ -n $(git status --porcelain) ]]; then
+          git add weather_data.csv
+          git commit -m "Update weather and carbon data - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          git push
+          echo "Changes committed and pushed successfully"
+        else
+          echo "No changes to commit"
+        fi
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
+    
+    - name: Set up Google Sheets credentials
+      run: |
+        echo '${{ secrets.GSHEETS_CREDENTIALS_JSON }}' > credentials.json
+        chmod 600 credentials.json
+    
+    - name: Upload to Google Sheets
+      run: |
+        python - <<'EOF'
+        import gspread
+        import pandas as pd
+        import sys
+        from oauth2client.service_account import ServiceAccountCredentials
         
-            python <<EOF
-            import gspread
-            import pandas as pd
-            from oauth2client.service_account import ServiceAccountCredentials
-        
-            # Authenticate
-            scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+        try:
+            # Authenticate with Google Sheets
+            scope = [
+                "https://spreadsheets.google.com/feeds",
+                "https://www.googleapis.com/auth/drive"
+            ]
             creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
             client = gspread.authorize(creds)
-        
-            # Open Google Sheet
-            SPREADSHEET_NAME = "Weather and Carbon Dashboard"
-            SHEET_NAME = "LiveData"
-            df = pd.read_csv("weather_data.csv")
-        
-            sheet = client.open(SPREADSHEET_NAME).worksheet(SHEET_NAME)
-            sheet.clear()
-            sheet.update([df.columns.values.tolist()] + df.values.tolist())
-        
-            print("✅ Synced to Google Sheets successfully.")
-            EOF
-
+            
+            # Load and validate data
+            try:
+                df = pd.read_csv("weather_data.csv")
+                if df.empty:
+                    print("⚠️  Warning: CSV file is empty")
+                    sys.exit(1)
+                print(f"📊 Loaded {len(df)} rows of data")
+            except FileNotFoundError:
+                print("❌ Error: weather_data.csv not found")
+                sys.exit(1)
+            except pd.errors.EmptyDataError:
+                print("❌ Error: CSV file is empty or corrupted")
+                sys.exit(1)
+            
+            # Update Google Sheet
+            try:
+                spreadsheet = client.open("Weather and Carbon Dashboard")
+                worksheet = spreadsheet.worksheet("LiveData")
+                
+                # Clear existing data
+                worksheet.clear()
+                
+                # Prepare data for upload
+                data_to_upload = [df.columns.values.tolist()] + df.values.tolist()
+                
+                # Upload data in batches to avoid API limits
+                worksheet.update(data_to_upload, value_input_option='RAW')
+                
+                print("✅ Successfully synced to Google Sheets")
+                print(f"📈 Updated {len(df)} rows with {len(df.columns)} columns")
+                
+            except gspread.SpreadsheetNotFound:
+                print("❌ Error: Spreadsheet 'Weather and Carbon Dashboard' not found")
+                sys.exit(1)
+            except gspread.WorksheetNotFound:
+                print("❌ Error: Worksheet 'LiveData' not found")
+                sys.exit(1)
+            except Exception as e:
+                print(f"❌ Error updating Google Sheets: {str(e)}")
+                sys.exit(1)
+                
+        except Exception as e:
+            print(f"❌ Authentication or setup error: {str(e)}")
+            sys.exit(1)
+        EOF
+    
+    - name: Clean up credentials
+      if: always()
+      run: |
+        if [ -f credentials.json ]; then
+          rm -f credentials.json
+          echo "🧹 Cleaned up credentials file"
+        fi
