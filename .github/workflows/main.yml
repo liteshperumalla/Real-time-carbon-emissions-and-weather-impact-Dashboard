@@ -3,38 +3,27 @@ name: Weather and Carbon Data Scraper
 on:
   schedule:
     - cron: '0 * * * *'   # Every hour (UTC)
-  workflow_dispatch:       # Manual trigger
+  workflow_dispatch:
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-
-    - name: Install Dependencies
+    - name: Checkout Repo with PAT
       run: |
-        pip install pandas requests
-
-    - name: Run Scraper Script
-      run: python updated.py
-
-    - name: Commit and Push Combined Data
-      env:
-        PAT: ${{ secrets.GH_PAT }}
-      run: |
+        git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }} repo
+        cd repo
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
 
-        # Set remote with token auth
-        git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
+        # Run script
+        pip install pandas requests
+        python updated.py
 
+        # Commit and push
         git add combined_data.csv
         git commit -m "Update weather and carbon data" || echo "No changes to commit"
-        git push origin main
+        git push
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
